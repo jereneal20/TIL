@@ -21,3 +21,18 @@ Today I Learn
   - https://docs.ansible.com/ansible/latest/user_guide/intro_patterns.html#intro-patterns
     - 이걸 끝까지 안 읽어서 맨날 헤맸다.. 
     - Most people don’t specify patterns as regular expressions, but you can. Just start the pattern with a ‘~’
+
+## Day 4
+- https://leetcode.com/problems/find-common-characters/
+- collections.Counter에 + - & | 연산이 있다. (https://excelsior-cjh.tistory.com/94)
+  - 시간복잡도는... 음.... 특성상 O(N) 이겠고, 이걸 string 개수만큼 반복했으니 O(M*N) 이렷다. 더 줄일 순 없겠지.
+
+```
+class Solution:
+    def commonChars(self, A: List[str]) -> List[str]:
+        res = collections.Counter(A[0])
+        for a in A:
+            res &= collections.Counter(a)
+        return list(res.elements())
+        
+```
