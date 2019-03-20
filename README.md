@@ -12,3 +12,12 @@ Today I Learn
 ## Day 2
 - Stderr/Stdout 이 출력되는 프로세스를 ctrl+z 후 bg를 하면 예외처리를 하지 않는 이상 에러를 뿜고 프로세스가 죽는다.
   - `CMD > /dev/null 2>&1` 을 뒤에 붙여 프로세스를 수행하도록 하자
+
+## Day 3
+- Ansible tip
+  - 옛날 버전: `ansible -i <server_list> -m shell -a "ls" -f 10 tset-sa[!1-3]-9[!0-9]`
+  - 최근 버전: `ansible -i <server_list> -m shell -a "ls" -f 10 ~tset-sa[1-3]-9[0-9]$`
+  - 옛날 버전은 자동으로 regex를 적용시켜 줬지만, 최근 버전은 `~`를 명시해야 regex를 적용시켜준다. 이게 없으면 <server_list>의 몇번째 매칭된 파일인지.. 등과 같은 형태로 패턴을 찾는다.
+  - https://docs.ansible.com/ansible/latest/user_guide/intro_patterns.html#intro-patterns
+    - 이걸 끝까지 안 읽어서 맨날 헤맸다.. 
+    - Most people don’t specify patterns as regular expressions, but you can. Just start the pattern with a ‘~’
