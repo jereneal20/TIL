@@ -39,7 +39,11 @@ class Solution:
 
 ## Day 5
 - https://leetcode.com/problems/odd-even-linked-list/
-- https://github.com/jereneal20/TIL/ps/odd-even-linked-list.cpp
+- https://github.com/jereneal20/TIL/blob/master/ps/odd-even-linked-list.cpp
   - Complexity: time O(N), space O(1)
   - 홀짝 구별이기 때문에 iterator variable i를 두고 홀짝일때 각각 홀짝 ListNode에 해당 Node를 append 시킨다. cur가 지나간 것들만 inplace 하므로 iteration에 문제가 생기진 않음. 마지막 even node->next에 명시적으로 NULL을 넣어주자.
 
+## Day 6
+- https://leetcode.com/problems/add-strings
+- https://github.com/jereneal20/TIL/blob/master/ps/odd-even-linked-list.cpp
+  - 평소때 하던 로직대로 짜면 된다. Carry 마지막 처리와 index 에러 처리에 주의하며 프로그래밍하면 된다. 이런건 더 빠르게 짤 수 있어야 하는데...
