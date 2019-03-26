@@ -54,5 +54,9 @@ class Solution:
   - [차이 설명 링크](http://lab.gamecodi.com/board/zboard.php?id=GAMECODILAB_QnA_etc&no=3392) 여기 설명이 명확하다. 결론적으로 트리구조 자료 저장 방식과 맵 구조 자료 저장 방식의 차이를 이야기해준다.
   - [GeeksForGeeks](https://www.geeksforgeeks.org/map-vs-unordered_map-c/) 여기 요약도 명료하다. 순서나 range가 필요한 경우, skewed된 경우, 등등... 은 map이 유리.
   - 반대로 말하면 tree 구조를 사용해야 할 때 map을 사용하면 편할 것 같다. 문제 풀 때 이런 일이 있으면 꼭 써보자.
-  
-  
+
+## Day 8
+- https://leetcode.com/problems/bitwise-and-of-numbers-range/
+- https://github.com/jereneal20/TIL/blob/master/ps/bitwise-and-of-numbers-range.cpp
+  - 복잡도 O(1)
+  - 구간에 대해 모두 and operation을 취하기 때문에 특정 bit가 달라지는 시점부터는 무조건 하위 bit는 0이 된다. n >= m 이므로 어떤 bit들까지는 모두 같다가 어디선가 달라지는데 (leading zero 포함), 그 bit에서 n은 1이고, m은 0일 것이다. 이는 range 내에 그 하위의 1111과 같이 최대값이 포함되고, 그 다음 10000과 같이 0으로 set된 값이 포함되기 마련이므로 하위 비트는 and에서 무시하여도 됨.
