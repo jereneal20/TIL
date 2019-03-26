@@ -55,4 +55,8 @@ class Solution:
   - [GeeksForGeeks](https://www.geeksforgeeks.org/map-vs-unordered_map-c/) 여기 요약도 명료하다. 순서나 range가 필요한 경우, skewed된 경우, 등등... 은 map이 유리.
   - 반대로 말하면 tree 구조를 사용해야 할 때 map을 사용하면 편할 것 같다. 문제 풀 때 이런 일이 있으면 꼭 써보자.
   
-  
+## Day 9
+- https://leetcode.com/problems/sum-of-left-leaves/
+- https://github.com/jereneal20/TIL/blob/master/ps/sum-of-left-leaves.cpp
+  - 복잡도 O(n)
+  - left leaves만 찾으면 되는데, 이 leaf가 left에서 끝나는 것인지를 알려면 그 parent에서 검색해야함. 
