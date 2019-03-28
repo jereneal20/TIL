@@ -55,14 +55,48 @@ class Solution:
   - [GeeksForGeeks](https://www.geeksforgeeks.org/map-vs-unordered_map-c/) 여기 요약도 명료하다. 순서나 range가 필요한 경우, skewed된 경우, 등등... 은 map이 유리.
   - 반대로 말하면 tree 구조를 사용해야 할 때 map을 사용하면 편할 것 같다. 문제 풀 때 이런 일이 있으면 꼭 써보자.
   
+## Day 8
+- https://leetcode.com/problems/bitwise-and-of-numbers-range/
+- https://github.com/jereneal20/TIL/blob/master/ps/bitwise-and-of-numbers-range.cpp
+  - 복잡도 O(1)
+  - 구간에 대해 모두 and operation을 취하기 때문에 특정 bit가 달라지는 시점부터는 무조건 하위 bit는 0이 된다. n >= m 이므로 어떤 bit들까지는 모두 같다가 어디선가 달라지는데 (leading zero 포함), 그 bit에서 n은 1이고, m은 0일 것이다. 이는 range 내에 그 하위의 1111과 같이 최대값이 포함되고, 그 다음 10000과 같이 0으로 set된 값이 포함되기 마련이므로 하위 비트는 and에서 무시하여도 됨.
+
 ## Day 9
 - https://leetcode.com/problems/sum-of-left-leaves/
 - https://github.com/jereneal20/TIL/blob/master/ps/sum-of-left-leaves.cpp
   - 복잡도 O(n)
   - left leaves만 찾으면 되는데, 이 leaf가 left에서 끝나는 것인지를 알려면 그 parent에서 검색해야함. 
 
+## Day 10
+- https://leetcode.com/problems/rotate-function
+- https://github.com/jereneal20/TIL/blob/master/ps/rotate-function.cpp
+  - 복잡도 O(n)
+  - 곱셈이 순차적으로 일어나기 때문에 하나의 답을 구한 후 한번의 연산으로 그다음 답을 구할 수 있다.
+
+- Integer promotion 버그
+  - vector의 size를 구하면 이는 signed type의 값이다. 이때, 음수 값과 연산을 진행하는 경우 integer promotion이 발생해 값이 잘못 출력되는 경우가 발생한다.
+- 아래 코드의 결과를 예상해보자. -4일까? 아니다. -2가 강제 promotion 되어 양수로 바뀐 상태로 계산을 수행한다.
+```
+#include <vector>
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	vector<int> vec;
+	vec.push_back(1);
+	vec.push_back(1);
+
+	cout << -2 * vec.size() << endl;
+	return 0;
+}
+
+```
+
+## Day 11
 - https://leetcode.com/problems/longest-common-prefix
 - https://github.com/jereneal20/TIL/blob/master/ps/longest-common-prefix.cpp
   - 복잡도 O(n), n은 전체 strs의 chars를 합한 것.
   - 어차피 앞부분은 순회를 해야하므로 n보다 줄어들 수는 없다.
   - 이 코드에도 예외케이스 처리를 좀 덜 해줬는데 accept되는 것이... 일부 string의 길이가 짧을 때 것을 추가 예외처리해줘야한다.
+
