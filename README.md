@@ -106,3 +106,9 @@ int main()
   - 복잡도 O(n)
   - 문제를 잘 읽자. reapeating characters의 정의를 헷갈리니 한참 헤맨다.
   - dict에 넣어서 풀면 된다. unordered_map의 [] operator는 자동으로 element를 생성시켜주니 주의하고, map.find(key)==map.end()를 활용하자. ==이면 element not exist.
+
+## Day 13
+- https://leetcode.com/problems/two-sum
+- https://github.com/jereneal20/TIL/blob/master/ps/two-sum.cpp
+  - 복잡도 O(n)
+  - 심플한 문제다..만 헤매는 -_- 해쉬테이블을 쓰면 아주 간단하다. 괜히 소팅이나 그런거 고민하지 말자.
