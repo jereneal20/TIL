@@ -60,3 +60,9 @@ class Solution:
 - https://github.com/jereneal20/TIL/blob/master/ps/sum-of-left-leaves.cpp
   - 복잡도 O(n)
   - left leaves만 찾으면 되는데, 이 leaf가 left에서 끝나는 것인지를 알려면 그 parent에서 검색해야함. 
+
+- https://leetcode.com/problems/longest-common-prefix
+- https://github.com/jereneal20/TIL/blob/master/ps/longest-common-prefix.cpp
+  - 복잡도 O(n), n은 전체 strs의 chars를 합한 것.
+  - 어차피 앞부분은 순회를 해야하므로 n보다 줄어들 수는 없다.
+  - 이 코드에도 예외케이스 처리를 좀 덜 해줬는데 accept되는 것이... 일부 string의 길이가 짧을 때 것을 추가 예외처리해줘야한다.
