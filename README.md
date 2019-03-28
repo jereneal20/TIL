@@ -100,3 +100,9 @@ int main()
   - 어차피 앞부분은 순회를 해야하므로 n보다 줄어들 수는 없다.
   - 이 코드에도 예외케이스 처리를 좀 덜 해줬는데 accept되는 것이... 일부 string의 길이가 짧을 때 것을 추가 예외처리해줘야한다.
 
+## Day 12
+- https://leetcode.com/problems/longest-substring-without-repeating-characters
+- https://github.com/jereneal20/TIL/blob/master/ps/longest-substring-without-repeating-characters.cpp
+  - 복잡도 O(n)
+  - 문제를 잘 읽자. reapeating characters의 정의를 헷갈리니 한참 헤맨다.
+  - dict에 넣어서 풀면 된다. unordered_map의 [] operator는 자동으로 element를 생성시켜주니 주의하고, map.find(key)==map.end()를 활용하자. ==이면 element not exist.
