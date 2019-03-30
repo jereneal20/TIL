@@ -24,6 +24,7 @@ Today I Learn
 
 ## Day 4
 - https://leetcode.com/problems/find-common-characters/
+- https://github.com/jereneal20/TIL/blob/master/ps/find-common-characters.cpp
 - collections.Counter에 + - & | 연산이 있다. (https://excelsior-cjh.tistory.com/94)
   - 시간복잡도는... 음.... 특성상 O(N) 이겠고, 이걸 string 개수만큼 반복했으니 O(M*N) 이렷다. 더 줄일 순 없겠지.
 
@@ -36,6 +37,7 @@ class Solution:
         return list(res.elements())
         
 ```
+- 혹은 map에 단어별 개수를 저장해서 점점 필요한것만 남겨나가는 식으로 할 수 있음.
 
 ## Day 5
 - https://leetcode.com/problems/odd-even-linked-list/
@@ -112,3 +114,8 @@ int main()
 - https://github.com/jereneal20/TIL/blob/master/ps/two-sum.cpp
   - 복잡도 O(n)
   - 심플한 문제다..만 헤매는 -_- 해쉬테이블을 쓰면 아주 간단하다. 괜히 소팅이나 그런거 고민하지 말자.
+
+- https://leetcode.com/problems/minimum-depth-of-binary-tree
+- https://github.com/jereneal20/TIL/blob/master/ps/minimum-depth-of-binary-tree
+  - 복잡도 O(n)
+  - Iteration을 도는 방법도 있고 (DFS), BFS 방법도 있다. BFS는 단점도 추가로 있으나 (space) 특성에 따라 빠르게 찾을수도 있다.
