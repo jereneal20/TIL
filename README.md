@@ -119,3 +119,9 @@ int main()
 - https://github.com/jereneal20/TIL/blob/master/ps/minimum-depth-of-binary-tree
   - 복잡도 O(n)
   - Iteration을 도는 방법도 있고 (DFS), BFS 방법도 있다. BFS는 단점도 추가로 있으나 (space) 특성에 따라 빠르게 찾을수도 있다.
+
+## Day 14
+- https://leetcode.com/problems/cousins-in-binary-tree
+- https://github.com/jereneal20/TIL/blob/master/ps/cousins-in-binary-tree.cpp
+  - 두개의 parent가 같은지 보면서 depth가 같은지도 보면 된다.
+
