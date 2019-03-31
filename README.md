@@ -125,3 +125,7 @@ int main()
 - https://github.com/jereneal20/TIL/blob/master/ps/cousins-in-binary-tree.cpp
   - 두개의 parent가 같은지 보면서 depth가 같은지도 보면 된다.
 
+## Day 15
+- https://leetcode.com/problems/generate-parentheses
+- https://github.com/jereneal20/TIL/blob/master/ps/generate-parentheses.cpp
+  - Backtracking을 하되 branch&bound가 중요하다. 더이상 열려있는게 없을때 더 닫지 않도록, 여는 개수가 일정 수를 초과하지 않도록. 괄호의 종류가 하나기 때문에 이것만 고려해주면 순탄하게 문제 해결 가능.
