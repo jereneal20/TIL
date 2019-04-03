@@ -130,7 +130,7 @@ int main()
 - https://github.com/jereneal20/TIL/blob/master/ps/generate-parentheses.cpp
   - Backtracking을 하되 branch&bound가 중요하다. 더이상 열려있는게 없을때 더 닫지 않도록, 여는 개수가 일정 수를 초과하지 않도록. 괄호의 종류가 하나기 때문에 이것만 고려해주면 순탄하게 문제 해결 가능.
 
-## Day 16
+## Day 17
 - https://leetcode.com/problems/add-two-numbers
 - https://github.com/jereneal20/TIL/blob/master/ps/add-two-numbers.cpp
   - 자주 풀어야만 했던 문제. 직접 풀었는데 버그가 있다 ㅎㅎ 한방에 통과 좀 하자...
@@ -138,3 +138,8 @@ int main()
 - https://leetcode.com/problems/unique-email-addresses/
 - https://github.com/jereneal20/TIL/blob/master/ps/unique-email-addresses.cpp
   - 이건 그래도 한방에 통과. undordered_map이나 set 관련 자료구조를 썼으면 더 좋았을 듯.
+
+## Day 18
+- https://leetcode.com/problems/range-sum-query-2d-immutable
+- https://github.com/jereneal20/TIL/blob/master/ps/range-sum-query-2d-immutable.cpp
+  - DP로 풀어야되는 것은 바로 생각이 났으나, cpp compilation 에러와 소소한 index-1(row1,col1도 덧셈에 포함되는 영역이므로)을 빼먹었다. 컴파일 에러는 call by ref에 의한 것인데, 잘 안쓰는거라 왤까 고민 중...

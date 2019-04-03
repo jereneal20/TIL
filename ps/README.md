@@ -14,5 +14,6 @@
 |[111](https://leetcode.com/problems/minimum-depth-of-binary-tree) | minimum-depth-of-binary-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-depth-of-binary-tree.cpp) |
 |[993](https://leetcode.com/problems/cousins-in-binary-tree) | cousins-in-binary-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/cousins-in-binary-tree.cpp) |
 |[22](https://leetcode.com/problems/generate-parentheses) | generate-parentheses| medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/generate-parentheses.cpp) |
-|[2](https://leetcode.com/problems/add-two-numbers) | add-two-numbers | medium | [solution]((https://github.com/jereneal20/TIL/blob/master/ps/add-two-numbers.cpp) |
-|[924](https://leetcode.com/problems/unique-email-addresses) | unique-email-addresses | easy | [solution]((https://github.com/jereneal20/TIL/blob/master/ps/unique-email-addresses.cpp) |
+|[2](https://leetcode.com/problems/add-two-numbers) | add-two-numbers | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/add-two-numbers.cpp) |
+|[924](https://leetcode.com/problems/unique-email-addresses) | unique-email-addresses | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-email-addresses.cpp) |
+|[304](https://leetcode.com/problems/range-sum-query-2d-immutable) | range-sum-query-2d-immutable | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/range-sum-query-2d-immutable.cpp) |
