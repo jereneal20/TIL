@@ -26,7 +26,7 @@ Today I Learn
 - https://leetcode.com/problems/find-common-characters/
 - https://github.com/jereneal20/TIL/blob/master/ps/find-common-characters.cpp
 - collections.Counter에 + - & | 연산이 있다. (https://excelsior-cjh.tistory.com/94)
-  - 시간복잡도는... 음.... 특성상 O(N) 이겠고, 이걸 string 개수만큼 반복했으니 O(M*N) 이렷다. 더 줄일 순 없겠지.
+  - 시간복잡도는... 음.... 특성상 O(N) 이겠고, 이걸 string 개수만큼 반복했으니 O(MN) 이렷다. 더 줄일 순 없겠지.
 
 ```
 class Solution:
@@ -113,10 +113,10 @@ int main()
 - https://leetcode.com/problems/two-sum
 - https://github.com/jereneal20/TIL/blob/master/ps/two-sum.cpp
   - 복잡도 O(n)
-  - 심플한 문제다..만 헤매는 -_- 해쉬테이블을 쓰면 아주 간단하다. 괜히 소팅이나 그런거 고민하지 말자.
+  - 심플한 문제다..만 헤매는..  해쉬테이블을 쓰면 아주 간단하다. 괜히 소팅이나 그런거 고민하지 말자.
 
 - https://leetcode.com/problems/minimum-depth-of-binary-tree
-- https://github.com/jereneal20/TIL/blob/master/ps/minimum-depth-of-binary-tree
+- https://github.com/jereneal20/TIL/blob/master/ps/minimum-depth-of-binary-tree.cpp
   - 복잡도 O(n)
   - Iteration을 도는 방법도 있고 (DFS), BFS 방법도 있다. BFS는 단점도 추가로 있으나 (space) 특성에 따라 빠르게 찾을수도 있다.
 
@@ -129,3 +129,12 @@ int main()
 - https://leetcode.com/problems/generate-parentheses
 - https://github.com/jereneal20/TIL/blob/master/ps/generate-parentheses.cpp
   - Backtracking을 하되 branch&bound가 중요하다. 더이상 열려있는게 없을때 더 닫지 않도록, 여는 개수가 일정 수를 초과하지 않도록. 괄호의 종류가 하나기 때문에 이것만 고려해주면 순탄하게 문제 해결 가능.
+
+## Day 16
+- https://leetcode.com/problems/add-two-numbers
+- https://github.com/jereneal20/TIL/blob/master/ps/add-two-numbers.cpp
+  - 자주 풀어야만 했던 문제. 직접 풀었는데 버그가 있다 ㅎㅎ 한방에 통과 좀 하자...
+
+- https://leetcode.com/problems/unique-email-addresses/
+- https://github.com/jereneal20/TIL/blob/master/ps/unique-email-addresses.cpp
+  - 이건 그래도 한방에 통과. undordered_map이나 set 관련 자료구조를 썼으면 더 좋았을 듯.
