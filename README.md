@@ -146,6 +146,11 @@ int main()
     - Constructor에서는 const 없이 &로 call by ref를 할 수 없는듯. 구조체에서 생각지 못하게 original value의 값을 바꾸는걸 막기 위한 것 아닐까.
 
 ## Day 19
+- https://leetcode.com/problems/letter-combinations-of-a-phone-number
+  - medium 치고 너무 가볍게 풀 수 있는 문제. 재귀나 loop로 풀면 된다.
+
+## Day 20
 - https://leetcode.com/problems/island-perimeter
 - https://github.com/jereneal20/TIL/blob/master/ps/island-perimeter.cpp
   - 그냥 카운팅만 하면 되는 문제. 다른 medium 문제들도 도전했으나, 답을 보고야 말았어서 오늘 말고 다른날 재도전하는걸로..
+
