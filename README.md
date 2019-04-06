@@ -143,3 +143,9 @@ int main()
 - https://leetcode.com/problems/range-sum-query-2d-immutable
 - https://github.com/jereneal20/TIL/blob/master/ps/range-sum-query-2d-immutable.cpp
   - DP로 풀어야되는 것은 바로 생각이 났으나, cpp compilation 에러와 소소한 index-1(row1,col1도 덧셈에 포함되는 영역이므로)을 빼먹었다. 컴파일 에러는 call by ref에 의한 것인데, 잘 안쓰는거라 왤까 고민 중...
+    - Constructor에서는 const 없이 &로 call by ref를 할 수 없는듯. 구조체에서 생각지 못하게 original value의 값을 바꾸는걸 막기 위한 것 아닐까.
+
+## Day 19
+- https://leetcode.com/problems/island-perimeter
+- https://github.com/jereneal20/TIL/blob/master/ps/island-perimeter.cpp
+  - 그냥 카운팅만 하면 되는 문제. 다른 medium 문제들도 도전했으나, 답을 보고야 말았어서 오늘 말고 다른날 재도전하는걸로..
