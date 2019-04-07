@@ -159,3 +159,15 @@ int main()
 - https://github.com/jereneal20/TIL/blob/master/ps/maximum-subarray.cpp
   - easy 주제에 생각할게 있는 문제. 점화식으로 접근해야 쉽게 풀 수 있다.
   - divide and conquer로는 상당히 어렵다. 절반들의 maximum으로부터 새 maximum을 구하기 위해 필요한 것들이 무엇일까 잘 생각해보아야 함.. 시간이 지나면 또 까먹고 못풀게되지 않을까;
+
+## Day 22
+- https://leetcode.com/problems/middle-of-the-linked-list
+- https://github.com/jereneal20/TIL/blob/master/ps/middle-of-the-linked-list.cpp
+  - 심플한 문제. 토끼와 거북이.
+
+- https://leetcode.com/problems/di-string-match/
+- https://github.com/jereneal20/TIL/blob/master/ps/di-string-match.cpp
+  - 살짝 고민을 하긴 했는데, 문제가 약간 답정너 같은 느낌으로 쉬운 방식으로 강제될 것 같다고 생각해서 그리디하게 생각해보니 해결.
+
+- https://leetcode.com/problems/flipping-an-image
+  - 매우 쉬움. 그냥 단순 구현

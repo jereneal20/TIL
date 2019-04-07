@@ -20,3 +20,6 @@
 |[17](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | letter-combinations-of-a-phone-number | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/letter-combinations-of-a-phone-number.cpp) |
 |[463](https://leetcode.com/problems/island-perimeter) | island-perimeter | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/island-perimeter.cpp) |
 |[53](https://leetcode.com/problems/maximum-subarray) | maximum-subarray | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/maximum-subarray.cpp) |
+|[872](https://leetcode.com/problems/middle-of-the-linked-list) | middle-of-the-linked-list | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/middle-of-the-linked-list.cpp) |
+|[937](https://leetcode.com/problems/di-string-match) | di-string-match | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/di-string-match.cpp) |
+|[828](https://leetcode.com/problems/flipping-an-image) | flipping-an-image | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/flipping-an-image.cpp) |
