@@ -154,3 +154,8 @@ int main()
 - https://github.com/jereneal20/TIL/blob/master/ps/island-perimeter.cpp
   - 그냥 카운팅만 하면 되는 문제. 다른 medium 문제들도 도전했으나, 답을 보고야 말았어서 오늘 말고 다른날 재도전하는걸로..
 
+## Day 21
+- https://leetcode.com/problems/maximum-subarray
+- https://github.com/jereneal20/TIL/blob/master/ps/maximum-subarray.cpp
+  - easy 주제에 생각할게 있는 문제. 점화식으로 접근해야 쉽게 풀 수 있다.
+  - divide and conquer로는 상당히 어렵다. 절반들의 maximum으로부터 새 maximum을 구하기 위해 필요한 것들이 무엇일까 잘 생각해보아야 함.. 시간이 지나면 또 까먹고 못풀게되지 않을까;
