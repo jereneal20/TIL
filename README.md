@@ -171,3 +171,8 @@ int main()
 
 - https://leetcode.com/problems/flipping-an-image
   - 매우 쉬움. 그냥 단순 구현
+
+## Day 23
+- https://leetcode.com/problems/game-of-life
+- https://github.com/jereneal20/TIL/blob/master/ps/game-of-life.cpp
+  - int variable의 여분을 활용하는 아이디어면 되는 문제. 단, 코드가 지저분해지는걸 어떻게 방지할까..의 문제가...
