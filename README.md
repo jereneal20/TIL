@@ -176,3 +176,8 @@ int main()
 - https://leetcode.com/problems/game-of-life
 - https://github.com/jereneal20/TIL/blob/master/ps/game-of-life.cpp
   - int variable의 여분을 활용하는 아이디어면 되는 문제. 단, 코드가 지저분해지는걸 어떻게 방지할까..의 문제가...
+
+## Day 24
+- https://leetcode.com/problems/flatten-nested-list-iterator/
+- https://github.com/jereneal20/TIL/blob/master/ps/flatten-nested-list-iterator.cpp
+  - Backtracking 방식으로 순회하는 로직을 구현하는 문제. Iterator를 잘 쓸 수 있으면 훨씬 쉬운데, 그렇지 못해서 코드를 엉망진창으로 짜다 겨우 완성..

@@ -24,3 +24,4 @@
 |[937](https://leetcode.com/problems/di-string-match) | di-string-match | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/di-string-match.cpp) |
 |[828](https://leetcode.com/problems/flipping-an-image) | flipping-an-image | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/flipping-an-image.cpp) |
 |[828](https://leetcode.com/problems/game-of-life) | game-of-life | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/game-of-life.cpp) |
+|[341](https://leetcode.com/problems/flatten-nested-list-iterator) | flatten-nested-list-iterator | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/flatten-nested-list-iterator.cpp) |
