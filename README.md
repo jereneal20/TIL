@@ -171,3 +171,8 @@ int main()
 
 - https://leetcode.com/problems/flipping-an-image
   - 매우 쉬움. 그냥 단순 구현
+
+## Day 23
+- https://leetcode.com/problems/binary-search-tree-iterator
+- https://github.com/jereneal20/TIL/blob/master/ps/binary-search-tree-iterator.cpp
+  - 상대적으로 만만한 medium 문제였음. DFS를 재귀 대신 class 내에서 컨트롤 할 수 있도록 하면 됐기 때문에, stack을 쓰는 것으로 해결 가능했음.
