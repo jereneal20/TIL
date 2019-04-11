@@ -23,4 +23,6 @@
 |[872](https://leetcode.com/problems/middle-of-the-linked-list) | middle-of-the-linked-list | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/middle-of-the-linked-list.cpp) |
 |[937](https://leetcode.com/problems/di-string-match) | di-string-match | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/di-string-match.cpp) |
 |[828](https://leetcode.com/problems/flipping-an-image) | flipping-an-image | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/flipping-an-image.cpp) |
+|[828](https://leetcode.com/problems/game-of-life) | game-of-life | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/game-of-life.cpp) |
+|[341](https://leetcode.com/problems/flatten-nested-list-iterator) | flatten-nested-list-iterator | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/flatten-nested-list-iterator.cpp) |
 |[173](https://leetcode.com/problems/binary-search-tree-iterator) | binary-search-tree-iterator | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-search-tree-iterator.cpp) |

@@ -173,6 +173,16 @@ int main()
   - 매우 쉬움. 그냥 단순 구현
 
 ## Day 23
+- https://leetcode.com/problems/game-of-life
+- https://github.com/jereneal20/TIL/blob/master/ps/game-of-life.cpp
+  - int variable의 여분을 활용하는 아이디어면 되는 문제. 단, 코드가 지저분해지는걸 어떻게 방지할까..의 문제가...
+
+## Day 24
+- https://leetcode.com/problems/flatten-nested-list-iterator/
+- https://github.com/jereneal20/TIL/blob/master/ps/flatten-nested-list-iterator.cpp
+  - Backtracking 방식으로 순회하는 로직을 구현하는 문제. Iterator를 잘 쓸 수 있으면 훨씬 쉬운데, 그렇지 못해서 코드를 엉망진창으로 짜다 겨우 완성..
+
+## Day 25
 - https://leetcode.com/problems/binary-search-tree-iterator
 - https://github.com/jereneal20/TIL/blob/master/ps/binary-search-tree-iterator.cpp
   - 상대적으로 만만한 medium 문제였음. DFS를 재귀 대신 class 내에서 컨트롤 할 수 있도록 하면 됐기 때문에, stack을 쓰는 것으로 해결 가능했음.
