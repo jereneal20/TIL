@@ -186,3 +186,8 @@ int main()
 - https://leetcode.com/problems/binary-search-tree-iterator
 - https://github.com/jereneal20/TIL/blob/master/ps/binary-search-tree-iterator.cpp
   - 상대적으로 만만한 medium 문제였음. DFS를 재귀 대신 class 내에서 컨트롤 할 수 있도록 하면 됐기 때문에, stack을 쓰는 것으로 해결 가능했음.
+
+## Day 26
+- https://leetcode.com/problems/powx-n
+- https://github.com/jereneal20/TIL/blob/master/ps/powx-n.cpp
+  - 질문 받은적 있는 문제 유형이라 쉽게 풀었다. DP 느낌으로 하긴 했는데, 사실 그냥 저장하지말고 바로 곱셈을 진행해버려도 된다. 공짜 medium 문제.
