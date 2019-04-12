@@ -27,3 +27,5 @@
 |[341](https://leetcode.com/problems/flatten-nested-list-iterator) | flatten-nested-list-iterator | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/flatten-nested-list-iterator.cpp) |
 |[173](https://leetcode.com/problems/binary-search-tree-iterator) | binary-search-tree-iterator | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-search-tree-iterator.cpp) |
 |[50](https://leetcode.com/problems/powx-n) | powx-n | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/powx-n.cpp) |
+|[88](https://leetcode.com/problems/merge-sorted-array) | merge-sorted-array | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/merge-sorted-array.cpp) |
+

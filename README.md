@@ -191,3 +191,8 @@ int main()
 - https://leetcode.com/problems/powx-n
 - https://github.com/jereneal20/TIL/blob/master/ps/powx-n.cpp
   - 질문 받은적 있는 문제 유형이라 쉽게 풀었다. DP 느낌으로 하긴 했는데, 사실 그냥 저장하지말고 바로 곱셈을 진행해버려도 된다. 공짜 medium 문제.
+
+## Day 27
+- https://leetcode.com/problems/merge-sorted-array
+- https://github.com/jereneal20/TIL/blob/master/ps/merge-sorted-array.cpp
+  - 두개의 배열을 이미 있는 배열에 합치는거라 순간 흠칫했다. 빈공간부터 채워가면 되는거였는데.. 이런 아이디어 좀 잘 생각났으면..
