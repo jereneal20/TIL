@@ -201,3 +201,8 @@ int main()
 - https://leetcode.com/problems/best-sightseeing-pair/
 - https://github.com/jereneal20/TIL/blob/master/ps/best-sightseeing-pair.cpp
   - 처음엔 좀 헤매다가 살짝 답안의 타이틀들을 보고 솔루션이 떠오른. 기존에 이런 문제 많은데 그걸 떠올리지 못하니 문제...
+
+## Day 29
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+- https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock.cpp
+  - 28일에 푼 문제와 비슷한 유형의 문제. 이거 시리즈로 몇개 있는데 쭉 풀어봐야겠다.

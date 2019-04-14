@@ -30,4 +30,5 @@
 |[88](https://leetcode.com/problems/merge-sorted-array) | merge-sorted-array | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/merge-sorted-array.cpp) |
 |[601](https://leetcode.com/problems/can-place-flowers) | can-place-flowers | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/can-place-flowers.cpp) |
 |[1009](https://leetcode.com/problems/best-sightseeing-pair) | best-sightseeing-pair | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-sightseeing-pair.cpp) |
+|[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | best-time-to-buy-and-sell-stock | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock.cpp) |
 
