@@ -196,3 +196,8 @@ int main()
 - https://leetcode.com/problems/merge-sorted-array
 - https://github.com/jereneal20/TIL/blob/master/ps/merge-sorted-array.cpp
   - 두개의 배열을 이미 있는 배열에 합치는거라 순간 흠칫했다. 빈공간부터 채워가면 되는거였는데.. 이런 아이디어 좀 잘 생각났으면..
+
+## Day 28
+- https://leetcode.com/problems/best-sightseeing-pair/
+- https://github.com/jereneal20/TIL/blob/master/ps/best-sightseeing-pair.cpp
+  - 처음엔 좀 헤매다가 살짝 답안의 타이틀들을 보고 솔루션이 떠오른. 기존에 이런 문제 많은데 그걸 떠올리지 못하니 문제...
