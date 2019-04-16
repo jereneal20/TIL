@@ -206,3 +206,8 @@ int main()
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 - https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock.cpp
   - 28일에 푼 문제와 비슷한 유형의 문제. 이거 시리즈로 몇개 있는데 쭉 풀어봐야겠다.
+
+## Day 30
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+- https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-ii.cpp
+  - 이건 어이가 없을 정도로 더 쉬워졌다. increasing 하는 곳들의 합을 구하면 끝.
