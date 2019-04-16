@@ -211,3 +211,8 @@ int main()
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
 - https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-ii.cpp
   - 이건 어이가 없을 정도로 더 쉬워졌다. increasing 하는 곳들의 합을 구하면 끝.
+
+## Day 31
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown
+- https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-with-cooldown.cpp
+  - 이 문제는 좀 어려워졌다. DP문제는 확실한데 판 직후에 사면 안된다는 점이 까다롭다. state로 각 state에 최대값을 업데이트 해내는 형태로 가능했다.
