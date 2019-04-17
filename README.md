@@ -216,3 +216,8 @@ int main()
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown
 - https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-with-cooldown.cpp
   - 이 문제는 좀 어려워졌다. DP문제는 확실한데 판 직후에 사면 안된다는 점이 까다롭다. state로 각 state에 최대값을 업데이트 해내는 형태로 가능했다.
+
+## Day 32
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee
+- https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-with-transaction-fee.cpp
+  - 어제 푼 문제와 유사하다. 오히려 더 쉬워진 느낌. 반복학습의 효과인가...
