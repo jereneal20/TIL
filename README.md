@@ -221,3 +221,8 @@ int main()
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee
 - https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-with-transaction-fee.cpp
   - 어제 푼 문제와 유사하다. 오히려 더 쉬워진 느낌. 반복학습의 효과인가...
+
+## Day 33
+- https://leetcode.com/problems/ugly-number
+- https://leetcode.com/problems/sort-array-by-parity-ii
+  - 누군가 풀었던 두 문제. 기본적인 느낌의 문제들
