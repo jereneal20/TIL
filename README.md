@@ -226,3 +226,8 @@ int main()
 - https://leetcode.com/problems/ugly-number
 - https://leetcode.com/problems/sort-array-by-parity-ii
   - 누군가 풀었던 두 문제. 기본적인 느낌의 문제들
+
+## Day 34
+- https://leetcode.com/problems/maximum-swap
+- https://github.com/jereneal20/TIL/blob/master/ps/maximum-swap.cpp
+  - 나중에 다시 풀어보는게 좋을 것 같다. 해설은 코드에 주석으로 써뒀다. 

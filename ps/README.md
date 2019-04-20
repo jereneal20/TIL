@@ -36,4 +36,5 @@
 |[263](https://leetcode.com/problems/ugly-number) | ugly-number | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/ugly-number.cpp) |
 |[710](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | best-time-to-buy-and-sell-stock-with-transaction-fee | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) |
 |[917](https://leetcode.com/problems/sort-array-by-parity-ii) | sort-array-by-parity-ii | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sort-array-by-parity-ii.cpp) |
+|[666](https://leetcode.com/problems/maximum-swap) | maximum-swap | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/maximum-swap.cpp) |
 
