@@ -231,3 +231,8 @@ int main()
 - https://leetcode.com/problems/maximum-swap
 - https://github.com/jereneal20/TIL/blob/master/ps/maximum-swap.cpp
   - 나중에 다시 풀어보는게 좋을 것 같다. 해설은 코드에 주석으로 써뒀다. 
+
+## Day 35
+- https://leetcode.com/problems/next-greater-node-in-linked-list
+- https://github.com/jereneal20/TIL/blob/master/ps/next-greater-node-in-linked-list.cpp
+  - 스택을 이용하면 된다. 고민끝에 생각해내서 다행..
