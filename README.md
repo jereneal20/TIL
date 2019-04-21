@@ -236,3 +236,11 @@ int main()
 - https://leetcode.com/problems/next-greater-node-in-linked-list
 - https://github.com/jereneal20/TIL/blob/master/ps/next-greater-node-in-linked-list.cpp
   - 스택을 이용하면 된다. 고민끝에 생각해내서 다행..
+
+## Day 36
+- https://leetcode.com/problems/create-maximum-number
+- https://github.com/jereneal20/TIL/blob/master/ps/create-maximum-number.cpp
+  - 약간 느린 solution으로 풀었다. 최적화를 더 할 수 있다.
+  - 현재 시간복잡도는 각각의 길이를 N, M이라 할 때 `O(k*(N+M)^2)` 이다. `O(k*(N+M))`으로 줄일 수 있다는데.. suffix array를 참고하라고한다.
+
+
