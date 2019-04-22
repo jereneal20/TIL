@@ -242,5 +242,9 @@ int main()
 - https://github.com/jereneal20/TIL/blob/master/ps/create-maximum-number.cpp
   - 약간 느린 solution으로 풀었다. 최적화를 더 할 수 있다.
   - 현재 시간복잡도는 각각의 길이를 N, M이라 할 때 `O(k*(N+M)^2)` 이다. `O(k*(N+M))`으로 줄일 수 있다는데.. suffix array를 참고하라고한다.
+    - https://web.archive.org/web/20160120093629/http://algobox.org/create-maximum-number/
 
-
+## Day 37
+- https://leetcode.com/problems/remove-k-digits
+- https://github.com/jereneal20/TIL/blob/master/ps/remove-k-digits.cpp
+  - 앞선 문제의 축소판. 예외처리에 좀 더 신경써서 문제를 풀자. 간단하니 차후에 다시 풀어봐도 좋다.
