@@ -243,4 +243,7 @@ int main()
   - 약간 느린 solution으로 풀었다. 최적화를 더 할 수 있다.
   - 현재 시간복잡도는 각각의 길이를 N, M이라 할 때 `O(k*(N+M)^2)` 이다. `O(k*(N+M))`으로 줄일 수 있다는데.. suffix array를 참고하라고한다.
 
-
+## Day 38
+- https://leetcode.com/problems/daily-temperatures
+- https://github.com/jereneal20/TIL/blob/master/ps/daily-temperatures.cpp
+  - 위 문제들과 동일한 유형의 문제
