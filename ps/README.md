@@ -43,3 +43,4 @@
 |[321](https://leetcode.com/problems/create-maximum-number) | create-maximum-number | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/create-maximum-number.cpp) | solved in slow solution |
 |[402](https://leetcode.com/problems/remove-k-digits) | remove-k-digits | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/remove-k-digits.cpp) | explain it orally later again |
 |[735](https://leetcode.com/problems/daily-temperatures) | daily-temperatures | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/daily-temperatures.cpp) |  |
+|[279](https://leetcode.com/problems/perfect-squares) | perfect-squares | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/perfect-squares.cpp) |  |

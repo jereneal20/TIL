@@ -254,3 +254,7 @@ int main()
 - https://github.com/jereneal20/TIL/blob/master/ps/daily-temperatures.cpp
   - 위 문제들과 동일한 유형의 문제
 
+## Day 39
+- https://leetcode.com/problems/perfect-squares
+- https://github.com/jereneal20/TIL/blob/master/ps/perfect-squares.cpp
+  - 답지를 참고했어서 다시한번 생각해봐야한다.
