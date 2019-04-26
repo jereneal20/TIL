@@ -44,3 +44,4 @@
 |[402](https://leetcode.com/problems/remove-k-digits) | remove-k-digits | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/remove-k-digits.cpp) | explain it orally later again |
 |[735](https://leetcode.com/problems/daily-temperatures) | daily-temperatures | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/daily-temperatures.cpp) |  |
 |[279](https://leetcode.com/problems/perfect-squares) | perfect-squares | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/perfect-squares.cpp) |  |
+|[969](https://leetcode.com/problems/k-closest-points-to-origin) | k-closest-points-to-origin | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/k-closest-points-to-origin.cpp) |  |

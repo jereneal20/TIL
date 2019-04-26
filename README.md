@@ -258,3 +258,8 @@ int main()
 - https://leetcode.com/problems/perfect-squares
 - https://github.com/jereneal20/TIL/blob/master/ps/perfect-squares.cpp
   - 답지를 참고했어서 다시한번 생각해봐야한다.
+
+## Day 40
+- https://leetcode.com/problems/k-closest-points-to-origin
+- https://github.com/jereneal20/TIL/blob/master/ps/k-closest-points-to-origin.cpp
+  - 알고 있던 솔루션으로는 풀었는데 답지를 보니 더 좋은 솔루션이 있다.. 이걸 추가로 공부해야할듯.
