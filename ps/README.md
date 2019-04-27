@@ -45,3 +45,4 @@
 |[735](https://leetcode.com/problems/daily-temperatures) | daily-temperatures | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/daily-temperatures.cpp) |  |
 |[279](https://leetcode.com/problems/perfect-squares) | perfect-squares | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/perfect-squares.cpp) |  |
 |[969](https://leetcode.com/problems/k-closest-points-to-origin) | k-closest-points-to-origin | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/k-closest-points-to-origin.cpp) |  |
+|[5](https://leetcode.com/problems/longest-palindromic-substring) | longest-palindromic-substring | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/longest-palindromic-substring.cpp) |  |

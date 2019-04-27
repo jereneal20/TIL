@@ -266,3 +266,8 @@ int main()
 
 ## Day 41
 - 39일자의 문제를 BFS with B&B로 풀었다. 수학으로 푸는 방법은 라그랑주의 네수 정리에 의한 것이었다...
+
+##  Day42
+- https://leetcode.com/problems/longest-palindromic-substring
+- https://github.com/jereneal20/TIL/blob/master/ps/longest-palindromic-substring.cpp
+  - 이전에 봤던 솔루션을 기억해내 풀었다. 조금 더 효율적인 솔루션도 있어서 다시 풀어봐야한다.
