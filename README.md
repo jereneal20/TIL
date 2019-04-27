@@ -263,3 +263,6 @@ int main()
 - https://leetcode.com/problems/k-closest-points-to-origin
 - https://github.com/jereneal20/TIL/blob/master/ps/k-closest-points-to-origin.cpp
   - 알고 있던 솔루션으로는 풀었는데 답지를 보니 더 좋은 솔루션이 있다.. 이걸 추가로 공부해야할듯.
+
+## Day 41
+- 39일자의 문제를 BFS with B&B로 풀었다. 수학으로 푸는 방법은 라그랑주의 네수 정리에 의한 것이었다...
