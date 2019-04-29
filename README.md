@@ -271,3 +271,6 @@ int main()
 - https://leetcode.com/problems/longest-palindromic-substring
 - https://github.com/jereneal20/TIL/blob/master/ps/longest-palindromic-substring.cpp
   - 이전에 봤던 솔루션을 기억해내 풀었다. 조금 더 효율적인 솔루션도 있어서 다시 풀어봐야한다.
+
+## Day 43
+- Day 40의 N 솔루션이 있다는 말은 사실 사기였다. N^2인데 best case에 N이 가능한 솔루션이었을 뿐. 퀵소트의 left right를 가르는 로직을 이용하면 된다는 논지인데, 구현해보는건 좋을 것 같긴하다. 동시에 퀵소트 구현도 한번....
