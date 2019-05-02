@@ -280,3 +280,8 @@ int main()
 
 ## Day 45
 - 노동자의 날이니 쉬어가는 차원에서 지금까지 어떤 문제들을 풀었는지 간략하게 살펴봄. medium 문제들을 더 풀고 열어두고 해결 못한 leetcode 페이지들을 이해하고 꺼야하는데.. 하는 생각만 반복합니다.
+
+## Day 46
+- https://leetcode.com/problems/next-greater-element-ii
+- https://github.com/jereneal20/TIL/blob/master/ps/next-greater-element-ii.cpp
+  - 얼마전에 푼 이와 비슷한 문제와 동일한 유형. circular 이기 때문에 최대 2번 루프를 돈다는 아이디어만 있으면 된다.
