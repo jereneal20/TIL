@@ -285,3 +285,11 @@ int main()
 - https://leetcode.com/problems/next-greater-element-ii
 - https://github.com/jereneal20/TIL/blob/master/ps/next-greater-element-ii.cpp
   - 얼마전에 푼 이와 비슷한 문제와 동일한 유형. circular 이기 때문에 최대 2번 루프를 돈다는 아이디어만 있으면 된다.
+
+## Day 47
+- https://leetcode.com/problems/minimum-add-to-make-parentheses-valid
+- https://github.com/jereneal20/TIL/blob/master/ps/minimum-add-to-make-parentheses-valid.cpp
+  - 맨날 면접문제로 내던 문제의 약 변형 문제라 어렵지 않게 풀 수 있었다.
+
+- https://leetcode.com/problems/check-if-word-is-valid-after-substitutions
+  - Pumping lemma를 생각나게하는 문제. 안에서 반복되지 않는 string이 솟아나는(?)거라 결국 위에 문제랑 같다. 다만 이 경우는 (가 a일수도, ab일수도 있으므로 스택 사용이 필수적이 된다.

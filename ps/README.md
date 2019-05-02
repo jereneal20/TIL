@@ -47,3 +47,5 @@
 |[969](https://leetcode.com/problems/k-closest-points-to-origin) | k-closest-points-to-origin | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/k-closest-points-to-origin.cpp) |  |
 |[5](https://leetcode.com/problems/longest-palindromic-substring) | longest-palindromic-substring | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/longest-palindromic-substring.cpp) |  |
 |[503](https://leetcode.com/problems/next-greater-element-ii) | next-greater-element-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/next-greater-element-ii.cpp) |  |
+|[917](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | minimum-add-to-make-parentheses-valid | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-add-to-make-parentheses-valid.cpp) |  |
+|[999](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions) | check-if-word-is-valid-after-substitutions | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/check-if-word-is-valid-after-substitutions.cpp) |  |
