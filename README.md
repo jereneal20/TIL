@@ -293,3 +293,7 @@ int main()
 
 - https://leetcode.com/problems/check-if-word-is-valid-after-substitutions
   - Pumping lemma를 생각나게하는 문제. 안에서 반복되지 않는 string이 솟아나는(?)거라 결국 위에 문제랑 같다. 다만 이 경우는 (가 a일수도, ab일수도 있으므로 스택 사용이 필수적이 된다.
+
+## Day 48
+- https://leetcode.com/problems/vowel-spellchecker
+  - TLE가 나오는 solution. 더 빠른 솔루션을 보고 개선해야한다. 공부할 여지가 있어 좋은 문제
