@@ -1,6 +1,65 @@
 class Solution {
 public:
-    vector<string> spellchecker(vector<string>& wordlist, vector<string>& queries) {
+vector<string> spellchecker(vector<string>& wordlist, vector<string>& queries) {
+        int i,j,k;
+        vector<string> res(queries.size(), "");
+        vector<int> priority(queries.size(), 5);
+        unordered_map<string, vector<int>> map;
+
+        for(j=0;j<wordlist.size();j++) {
+            map[toVowelStar(toLowerStr(wordlist[j]))].push_back(j);
+        }
+        for (i=0;i<queries.size();i++) {
+            string starQuery = toVowelStar(toLowerStr(queries[i]));
+            if (map[starQuery].empty()) continue;
+            
+            vector<int> candids = map[starQuery];
+            for(j=0;j<candids.size();j++) {
+                string lowerWord = toLowerStr(wordlist[candids[j]]);
+                string vowelWord = toVowelStar(lowerWord);
+                
+                if (queries[i].compare(wordlist[candids[j]]) == 0) {
+                    priority[i] = 1;
+                    res[i] = wordlist[candids[j]];
+                    break;
+                }
+                
+                if (priority[i] <= 2) continue;
+                if (toLowerStr(queries[i]).compare(lowerWord) == 0) {
+                    priority[i] = 2;
+                    res[i] = wordlist[candids[j]];
+                    continue;
+                }
+                
+                if (priority[i] <= 3) continue;
+                if (starQuery.compare(vowelWord) == 0) {
+                    priority[i] = 3;
+                    res[i] = wordlist[candids[j]];
+                    continue;
+                }
+            }
+        }
+        return res;
+    }
+    
+    string toLowerStr(string input) {
+        int i;
+        for(i=0;i<input.size();i++) {
+            input[i] = tolower(input[i]);
+        }
+        return input;
+    }
+    string toVowelStar(string input) {
+        int i;
+        char q1;
+        for(i=0;i<input.size();i++) {
+            q1 = input[i];
+            input[i] = (q1 == 'a' || q1 == 'e' || q1 == 'i' || q1 == 'o' || q1=='u') ? '*' : q1;
+        }
+        return input;
+    }
+
+    vector<string> spellcheckerTLE(vector<string>& wordlist, vector<string>& queries) {
         int i,j,k;
         vector<string> res(queries.size(), "");
         vector<int> priority(queries.size(), 5);

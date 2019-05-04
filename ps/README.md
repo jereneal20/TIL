@@ -49,4 +49,4 @@
 |[503](https://leetcode.com/problems/next-greater-element-ii) | next-greater-element-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/next-greater-element-ii.cpp) |  |
 |[917](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | minimum-add-to-make-parentheses-valid | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-add-to-make-parentheses-valid.cpp) |  |
 |[999](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions) | check-if-word-is-valid-after-substitutions | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/check-if-word-is-valid-after-substitutions.cpp) |  |
-|[962](https://leetcode.com/problems/vowel-spellchecker) | vowel-spellchecker | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/vowel-spellchecker.cpp) | TLE |
+|[962](https://leetcode.com/problems/vowel-spellchecker) | vowel-spellchecker | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/vowel-spellchecker.cpp) |  |
