@@ -307,3 +307,11 @@ int main()
 
 ## Day 51
 - 50일차 문제를 풀었음. 뭔가 다른 사람에게 설명하긴 좀 껄끄럽지만, 여하튼 이해하고 코드로 구현은 완료.
+
+## Day 52
+- https://leetcode.com/problems/decode-string
+- https://github.com/jereneal20/TIL/blob/master/ps/decode-string.cpp
+  - 면접 문제로 냈던 문제인데도 쉽게 안풀린다.. 역시 어려운 문제;
+
+## Day 53
+- 52일 문제를 좀 끙끙댄 후에야 겨우 풀었다. 스택을 써서 펌핑 시켰는데.. string shift가 많은데 이것밖에 없나 고민 중.

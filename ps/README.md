@@ -51,3 +51,4 @@
 |[999](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions) | check-if-word-is-valid-after-substitutions | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/check-if-word-is-valid-after-substitutions.cpp) |  |
 |[962](https://leetcode.com/problems/vowel-spellchecker) | vowel-spellchecker | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/vowel-spellchecker.cpp) |  |
 |[15](https://leetcode.com/problems/3sum) | 3sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum.cpp) |  |
+|[394](https://leetcode.com/problems/decode-string) | decode-string | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/decode-string.cpp) |  |
