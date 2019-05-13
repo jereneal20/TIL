@@ -321,3 +321,8 @@ int main()
 
 ## Day 55
 - 기존에 푼 문제들을 다시 한번 풀어보는 중. 솔루션이 얼마나 명확하게 생각나는지로 분류도 써두는게 좋을 것 같다
+
+## Day 56
+- https://leetcode.com/problems/sort-colors/
+- https://leetcode.com/problems/container-with-most-water/
+  - 솔루션을 보고야 말았음. 앞 문제는 2 pass 솔루션은 간단한데, 한번으로 가는건 기존에 생각했던 것과 약간의 특이한 아이디어를 첨가하면 가능했음. 두번째것도 약간만 더 잘 생각하면 되는데 그 논리를 내가 생각해낼 수 있어야할듯..
