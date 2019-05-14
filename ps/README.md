@@ -54,3 +54,4 @@
 |[394](https://leetcode.com/problems/decode-string) | decode-string | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/decode-string.cpp) |  |
 |[11](https://leetcode.com/problems/container-with-most-water) | container-with-most-water | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/container-with-most-water.cpp) | solution seen. similar to my thought. think again. |
 |[75](https://leetcode.com/problems/sort-colors) | sort-colors | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sort-colors.cpp) | solution seen. a bit more clever way exist |
+|[16](https://leetcode.com/problems/3sum-closest) | 3sum-closest | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum-closest.cpp) |  |
