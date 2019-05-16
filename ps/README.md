@@ -52,5 +52,5 @@
 |[962](https://leetcode.com/problems/vowel-spellchecker) | vowel-spellchecker | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/vowel-spellchecker.cpp) |  |
 |[15](https://leetcode.com/problems/3sum) | 3sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum.cpp) |  |
 |[394](https://leetcode.com/problems/decode-string) | decode-string | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/decode-string.cpp) |  |
-|[11](https://leetcode.com/problems/container-with-most-water) | container-with-most-water | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/container-with-most-water.cpp) | solution seen. similar to my thought. think again. |
+|[11](https://leetcode.com/problems/container-with-most-water) | container-with-most-water | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/container-with-most-water.cpp) | solved. think again. tell the logic again |
 |[75](https://leetcode.com/problems/sort-colors) | sort-colors | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sort-colors.cpp) | solution seen. a bit more clever way exist |
