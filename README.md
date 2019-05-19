@@ -339,3 +339,8 @@ int main()
 - 북리뷰: 함께 자라기
   - 어떻게 하는게 나 자신이 자라기에 좋은 것일까?
   -  https://github.com/jereneal20/TIL/blob/master/review/함께자라기.md
+
+## Day 63
+- https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
+- https://github.com/jereneal20/TIL/blob/master/ps/most-stones-removed-with-same-row-or-column.cpp
+  - number of islands 상위 버젼. set을 이용해 조금 더 간결하게 풀수도 있는듯 하다..
