@@ -344,3 +344,8 @@ int main()
 - https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
 - https://github.com/jereneal20/TIL/blob/master/ps/most-stones-removed-with-same-row-or-column.cpp
   - number of islands 상위 버젼. set을 이용해 조금 더 간결하게 풀수도 있는듯 하다..
+
+## Day 64
+- https://leetcode.com/problems/count-complete-tree-nodes
+- https://github.com/jereneal20/TIL/blob/master/ps/count-complete-tree-nodes.cpp
+  - 문제 솔루션은 생각해냈는데 구현이 귀찮아서 좀 미뤄뒀다 푼 문제. 어찌 어찌 풀었다. 바이너리 서치도 연습하고, 트리 순회도 연습하고.
