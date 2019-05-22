@@ -349,3 +349,4 @@ int main()
 - https://leetcode.com/problems/count-complete-tree-nodes
 - https://github.com/jereneal20/TIL/blob/master/ps/count-complete-tree-nodes.cpp
   - 문제 솔루션은 생각해냈는데 구현이 귀찮아서 좀 미뤄뒀다 푼 문제. 어찌 어찌 풀었다. 바이너리 서치도 연습하고, 트리 순회도 연습하고.
+  - 시간 복잡도는 O((logn)^2). 기본 로직은 n일텐데 이걸 저걸로 줄일 수 있는게 complete tree라는 조건 때문이다.
