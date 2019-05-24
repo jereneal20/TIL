@@ -350,3 +350,22 @@ int main()
 - https://github.com/jereneal20/TIL/blob/master/ps/count-complete-tree-nodes.cpp
   - 문제 솔루션은 생각해냈는데 구현이 귀찮아서 좀 미뤄뒀다 푼 문제. 어찌 어찌 풀었다. 바이너리 서치도 연습하고, 트리 순회도 연습하고.
   - 시간 복잡도는 O((logn)^2). 기본 로직은 n일텐데 이걸 저걸로 줄일 수 있는게 complete tree라는 조건 때문이다.
+
+## Day 68
+- System design
+  - Features
+    - 어느정도 범위로 만들려고 하는가? 그냥 API만 만들면 됨?
+    - 어떤 기능이 있어야되는데? 인증? 삭제? 웹페이지 구성?
+  - Design goals / requirements / goal of the system / considerations
+    - 어떤 것들이 충족되야하는데? 속도? url길이? consistency?
+    - 업/다운로드? 뉴스피드? 팔로우 기능?
+  - Data Modeling / High level design
+    - 어떤 형태로 flow가 그려지는지.
+    - 데이터베이스 스키마는 어떻게 될지
+  - View/ End Point
+    - Rest API? UI? / 1개의 output? multiple output?
+  - Method & Size estimation
+    - 실제 구현에 필요한 로직
+    - Scalability / Reliability / Sharding 등등
+  - https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904
+  - https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648
