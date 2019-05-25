@@ -344,3 +344,8 @@ int main()
 - https://leetcode.com/problems/most-stones-removed-with-same-row-or-column
 - https://github.com/jereneal20/TIL/blob/master/ps/most-stones-removed-with-same-row-or-column.cpp
   - number of islands 상위 버젼. set을 이용해 조금 더 간결하게 풀수도 있는듯 하다..
+
+##
+- https://leetcode.com/problems/clone-graph
+- https://github.com/jereneal20/TIL/blob/master/ps/clone-graph.cpp
+  - hash에 기존 pointer와 신규 pointer를 key,value로 넣는다. 이를 이용해 중복 순회 검사도 할 수 있다.
