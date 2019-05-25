@@ -379,3 +379,11 @@ int main()
 - https://leetcode.com/problems/minimum-area-rectangle
 - https://github.com/jereneal20/TIL/blob/master/ps/minimum-area-rectangle.cpp
   - Hash를 이용. O(n^2) 보다 좋은 솔루션이 있을까 고민했는데 사실상 그런거 없다.jpg
+
+- vim에서 종료시의 line을 저장해두는 기능 on 하는 방법
+  - https://askubuntu.com/questions/202075/how-do-i-get-vim-to-remember-the-line-i-was-on-when-i-reopen-a-file
+```
+if has("autocmd")
+  au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$") | exe "normal! g`\"" | endif
+endif
+```
