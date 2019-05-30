@@ -387,3 +387,8 @@ if has("autocmd")
   au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$") | exe "normal! g`\"" | endif
 endif
 ```
+
+## Day 74
+- https://leetcode.com/problems/string-to-integer-atoi/
+- https://github.com/jereneal20/TIL/blob/master/ps/string-to-integer-atoi.cpp
+  - 무난한 문제인데 조건이 까다로우니 이걸 잘 체크해야함.

@@ -59,3 +59,4 @@
 |[222](https://leetcode.com/problems/count-complete-tree-nodes) | count-complete-tree-nodes | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/count-complete-tree-nodes.cpp) |  |
 |[133](https://leetcode.com/problems/clone-graph) | clone-graph | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/clone-graph.cpp) |  |
 |[935](https://leetcode.com/problems/minimum-area-rectangle) | minimum-area-rectangle | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-area-rectangle.cpp) |  |
+|[8](https://leetcode.com/problems/string-to-integer-atoi) | string-to-integer-atoi | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/string-to-integer-atoi.cpp) |  |
