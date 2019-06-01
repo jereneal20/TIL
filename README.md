@@ -387,3 +387,10 @@ if has("autocmd")
   au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$") | exe "normal! g`\"" | endif
 endif
 ```
+
+## Day 76
+- 잔디콘 데이
+  - Perlin noise: gradient noise, https://en.wikipedia.org/wiki/Perlin_noise
+    - 수식을 간단하게라도 이해하고 싶었는데.. 위치를 참고한 바에 따르면, grid에 일정 간격으로 랜덤을 뿌린 다음, 해당 랜덤 사이들에는 scale을 둬 점차적 변화를 만들어낸다. 라고 볼 수 있는듯하다.
+  - Caucal Inference: chain/fork/collider
+    - 통계 모집단의 변수가 결과에 영향을 미치는데, 이게 잘못된 결론을 유추하게 될 수 있음.
