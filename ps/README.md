@@ -60,3 +60,4 @@
 |[133](https://leetcode.com/problems/clone-graph) | clone-graph | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/clone-graph.cpp) |  |
 |[935](https://leetcode.com/problems/minimum-area-rectangle) | minimum-area-rectangle | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-area-rectangle.cpp) |  |
 |[8](https://leetcode.com/problems/string-to-integer-atoi) | string-to-integer-atoi | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/string-to-integer-atoi.cpp) |  |
+|[8540(https://leetcode.com/problems/diameter-of-binary-tree) | diameter-of-binary-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/diameter-of-binary-tree.cpp) |  |
