@@ -450,5 +450,8 @@ OOP 디자인
 
 ## Day 86
 - https://leetcode.com/problems/complete-binary-tree-inserter
+  - 코드 짜면서 로직에 수식이 들어갈 땐 맞는지 한번 더 검증하면서 짜자. 시간 많다.
+
+## Day 87
 - https://leetcode.com/problems/symmetric-tree 
   - 쉬운 문제일수록 차근차근 풀어서 실수를 방지하자. 테스트 케이스는 꼭 꼼꼼하게 돌려보자.
