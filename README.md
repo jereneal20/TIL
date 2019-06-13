@@ -447,3 +447,8 @@ OOP 디자인
   -> 일반적으로 dynamic binding이 필요하기 떄문. 어떤 공통된 함수를 상속된 클래스마다 다르게 불러야 하는 것이므로 그 함수가 뭔지 잘 살펴보자
   -> loadObject() 함수라던지.
  -> 상속관계가 좋은지, 그냥 type을 has-A로 가지고 있는 설계가 좋은지 장단점에 대해 이야기 한 후 진행.
+
+## Day 86
+- https://leetcode.com/problems/complete-binary-tree-inserter
+- https://leetcode.com/problems/symmetric-tree 
+  - 쉬운 문제일수록 차근차근 풀어서 실수를 방지하자. 테스트 케이스는 꼭 꼼꼼하게 돌려보자.
