@@ -455,3 +455,8 @@ OOP 디자인
 ## Day 87
 - https://leetcode.com/problems/symmetric-tree 
   - 쉬운 문제일수록 차근차근 풀어서 실수를 방지하자. 테스트 케이스는 꼭 꼼꼼하게 돌려보자.
+
+## Day 91
+- https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
+- https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py
+  - 그리디. 오스카 덕분에 쉽게 풀었는데.. 헷갈릴 수 있으니 다음에 다시 보자

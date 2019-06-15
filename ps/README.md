@@ -61,5 +61,7 @@
 |[935](https://leetcode.com/problems/minimum-area-rectangle) | minimum-area-rectangle | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-area-rectangle.cpp) |  |
 |[8](https://leetcode.com/problems/string-to-integer-atoi) | string-to-integer-atoi | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/string-to-integer-atoi.cpp) |  |
 |[8540](https://leetcode.com/problems/diameter-of-binary-tree) | diameter-of-binary-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/diameter-of-binary-tree.cpp) |  |
-|[101](https://leetcode.com/problems/string-to-integer-atoi) | string-to-integer-atoi | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/string-to-integer-atoi.cpp) |  |
-|[915](https://leetcode.com/problems/complete-binary-tree-inserter) | complete-binary-tree-inserter | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/complete-binary-tree-inserter.cpp) |  |
+|[101](https://leetcode.com/problems/symmetric-tree) | symmetric-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/symmetric-tree.py) |  |
+|[915](https://leetcode.com/problems/complete-binary-tree-inserter) | complete-binary-tree-inserter | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/complete-binary-tree-inserter.py) |  |
+|[1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | smallest-subsequence-of-distinct-characters | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) | try it again |
+|[316](https://leetcode.com/problems/remove-duplicate-letters) | remove-duplicate-letters | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) | same as 1081 |
