@@ -464,3 +464,8 @@ OOP 디자인
 ## Day 92
 - https://leetcode.com/problems/validate-binary-search-tree
   - Top-down approach를 잘 생각해서 풀 수 있어야 한다.
+
+## Day 93
+- https://leetcode.com/problems/binary-tree-inorder-traversal
+- https://leetcode.com/problems/range-sum-of-bst
+- sys.maxsize 를 이용하자

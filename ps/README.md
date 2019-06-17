@@ -66,3 +66,5 @@
 |[1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | smallest-subsequence-of-distinct-characters | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) | try it again |
 |[316](https://leetcode.com/problems/remove-duplicate-letters) | remove-duplicate-letters | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) | same as 1081 |
 |[84](https://leetcode.com/problems/validate-binary-search-tree) | validate-binary-search-tree | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/validate-binary-search-tree.py) |  |
+|[94](https://leetcode.com/problems/binary-tree-inorder-traversal) | binary-tree-inorder-traversal | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-inorder-traversal.py) |  |
+|[938](https://leetcode.com/problems/range-sum-of-bst) | range-sum-of-bst | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/range-sum-of-bst.py) |  |
