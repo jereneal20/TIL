@@ -65,3 +65,4 @@
 |[915](https://leetcode.com/problems/complete-binary-tree-inserter) | complete-binary-tree-inserter | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/complete-binary-tree-inserter.py) |  |
 |[1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | smallest-subsequence-of-distinct-characters | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) | try it again |
 |[316](https://leetcode.com/problems/remove-duplicate-letters) | remove-duplicate-letters | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) | same as 1081 |
+|[84](https://leetcode.com/problems/validate-binary-search-tree) | validate-binary-search-tree | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/validate-binary-search-tree.py) |  |

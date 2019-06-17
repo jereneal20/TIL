@@ -460,3 +460,7 @@ OOP 디자인
 - https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
 - https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py
   - 그리디. 오스카 덕분에 쉽게 풀었는데.. 헷갈릴 수 있으니 다음에 다시 보자
+
+## Day 92
+- https://leetcode.com/problems/validate-binary-search-tree
+  - Top-down approach를 잘 생각해서 풀 수 있어야 한다.
