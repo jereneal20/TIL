@@ -57,5 +57,17 @@
 |[16](https://leetcode.com/problems/3sum-closest) | 3sum-closest | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum-closest.cpp) |  |
 |[943](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column) | most-stones-removed-with-same-row-or-column | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/most-stones-removed-with-same-row-or-column.cpp) |  |
 |[222](https://leetcode.com/problems/count-complete-tree-nodes) | count-complete-tree-nodes | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/count-complete-tree-nodes.cpp) |  |
+|[133](https://leetcode.com/problems/clone-graph) | clone-graph | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/clone-graph.cpp) |  |
+|[935](https://leetcode.com/problems/minimum-area-rectangle) | minimum-area-rectangle | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-area-rectangle.cpp) |  |
+|[8](https://leetcode.com/problems/string-to-integer-atoi) | string-to-integer-atoi | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/string-to-integer-atoi.cpp) |  |
+|[8540](https://leetcode.com/problems/diameter-of-binary-tree) | diameter-of-binary-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/diameter-of-binary-tree.cpp) |  |
+|[101](https://leetcode.com/problems/symmetric-tree) | symmetric-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/symmetric-tree.py) |  |
+|[915](https://leetcode.com/problems/complete-binary-tree-inserter) | complete-binary-tree-inserter | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/complete-binary-tree-inserter.py) |  |
+|[1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | smallest-subsequence-of-distinct-characters | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) | try it again |
+|[316](https://leetcode.com/problems/remove-duplicate-letters) | remove-duplicate-letters | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) | same as 1081 |
+|[84](https://leetcode.com/problems/validate-binary-search-tree) | validate-binary-search-tree | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/validate-binary-search-tree.py) |  |
+|[94](https://leetcode.com/problems/binary-tree-inorder-traversal) | binary-tree-inorder-traversal | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-inorder-traversal.py) |  |
+|[938](https://leetcode.com/problems/range-sum-of-bst) | range-sum-of-bst | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/range-sum-of-bst.py) |  |
 |[16](https://leetcode.com/problems/3sum-closest) | 3sum-closest | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum-closest.cpp) |  |
 |[15](https://leetcode.com/problems/3sum) | 3sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum.cpp) |  |
+|[277](https://leetcode.com/problems/find-the-celebrity) | find-the-celebrity | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-the-celebrity.cpp) |  |

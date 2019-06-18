@@ -349,3 +349,123 @@ int main()
 - https://leetcode.com/problems/count-complete-tree-nodes
 - https://github.com/jereneal20/TIL/blob/master/ps/count-complete-tree-nodes.cpp
   - 문제 솔루션은 생각해냈는데 구현이 귀찮아서 좀 미뤄뒀다 푼 문제. 어찌 어찌 풀었다. 바이너리 서치도 연습하고, 트리 순회도 연습하고.
+  - 시간 복잡도는 O((logn)^2). 기본 로직은 n일텐데 이걸 저걸로 줄일 수 있는게 complete tree라는 조건 때문이다.
+
+## Day 68
+- System design
+  - Features
+    - 어느정도 범위로 만들려고 하는가? 그냥 API만 만들면 됨?
+    - 어떤 기능이 있어야되는데? 인증? 삭제? 웹페이지 구성?
+  - Design goals / requirements / goal of the system / considerations
+    - 어떤 것들이 충족되야하는데? 속도? url길이? consistency?
+    - 업/다운로드? 뉴스피드? 팔로우 기능?
+  - Data Modeling / High level design
+    - 어떤 형태로 flow가 그려지는지.
+    - 데이터베이스 스키마는 어떻게 될지
+  - View/ End Point
+    - Rest API? UI? / 1개의 output? multiple output?
+  - Method & Size estimation
+    - 실제 구현에 필요한 로직
+    - Scalability / Reliability / Sharding 등등
+  - https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904
+  - https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648
+
+## Day 69
+- https://leetcode.com/problems/clone-graph
+- https://github.com/jereneal20/TIL/blob/master/ps/clone-graph.cpp
+  - hash에 기존 pointer와 신규 pointer를 key,value로 넣는다. 이를 이용해 중복 순회 검사도 할 수 있다.
+
+## Day 70
+- https://leetcode.com/problems/minimum-area-rectangle
+- https://github.com/jereneal20/TIL/blob/master/ps/minimum-area-rectangle.cpp
+  - Hash를 이용. O(n^2) 보다 좋은 솔루션이 있을까 고민했는데 사실상 그런거 없다.jpg
+
+- vim에서 종료시의 line을 저장해두는 기능 on 하는 방법
+  - https://askubuntu.com/questions/202075/how-do-i-get-vim-to-remember-the-line-i-was-on-when-i-reopen-a-file
+```
+if has("autocmd")
+  au BufReadPost * if line("'\"") > 0 && line("'\"") <= line("$") | exe "normal! g`\"" | endif
+endif
+```
+
+## Day 74
+- https://leetcode.com/problems/string-to-integer-atoi/
+- https://github.com/jereneal20/TIL/blob/master/ps/string-to-integer-atoi.cpp
+  - 무난한 문제인데 조건이 까다로우니 이걸 잘 체크해야함.
+
+## Day 76
+- 잔디콘 데이
+  - Perlin noise: gradient noise, https://en.wikipedia.org/wiki/Perlin_noise
+    - 수식을 간단하게라도 이해하고 싶었는데.. 위치를 참고한 바에 따르면, grid에 일정 간격으로 랜덤을 뿌린 다음, 해당 랜덤 사이들에는 scale을 둬 점차적 변화를 만들어낸다. 라고 볼 수 있는듯하다.
+  - Caucal Inference: chain/fork/collider
+    - 통계 모집단의 변수가 결과에 영향을 미치는데, 이게 잘못된 결론을 유추하게 될 수 있음.
+    
+## Day 78
+- 요즘 높은 성과/성취를 얻는다고 생각하지 못하고 퍼포먼스가 떨어지는 것 같다고 느끼는 이유?
+1. (비슷한 연차인) 옆에 퍼포먼스가 너무 좋은 사람이 있다 - 질문같은걸 하기 고년차보다 어렵다?
+2. 프로젝트가 폭파된 적이 있어서, 중요하지 않은 프로젝트 장기간 진행으로 인해 성취도가 낮아졌다 - 최근 프로젝트 선택과 예측를 잘 해야겠다고 깨달음. 누가 정해주는게 아니라.
+3. 옆에 질문을 잘 받아주지 못하는 사람이 있다 - 질문을 열심히/다양한 방법으로 해보고 있지만 효과는 미미한..
+4. 업무가 약간 루즈/한가해져서 집중력이 떨어진다, 데드라인이 하드하지 않다 - 작년에 데드라인을 확실하게 했으면 좋겠다는 요구를 하였는데 다른 일정등이 발생했을 때 그것을 지키기 힘들어진 케이스가 있었음. 하지만 소프트 데드라인 자체는 업무 능률 향상에 도움이 되었음.
+5. 미뤄뒀던 업무 처리를 업무로 느끼지 못하고 있다 - 평가로서 반영되기 힘들기 때문?
+6. 내가 잘하고 있는지에 대한 기준이 명확하지 않다
+7. 평가 및 피드백이 명확하지 않다
+
+## Day 79
+- 다른 사람들의 생각/조언/이야기
+  - 잘 하는 사람과의 협업은 뭔가 이상적인 것이 아니라, 그 사람 옆에 붙어서 코드 짜는걸 같이 보는 것 부터 시작 할 수도 있다.
+  - 욕심이 너무 큰거다?
+  - 자잘한 운영 업무나 과도한 외부 요청 등이 퍼포먼스 저하로 이어지기도 한다.
+  - 피드백/질문에 취약한 리더는 좋은 리더가 아니다. 그 사람이 바뀌도록 노력하거나, 그럼에도 더 꼼꼼하게 질문하거나, 그러함을 인정하거나.
+
+## Day 81
+- 면접에서 사용되는 OOP key features
+- 추상화 / 캡슐화 / 상속 / 다형성
+  - 주어진 문제를 잘 모델링 하자. 어떻게 모델링하는 것이 좋을지 명세를 명확히하고.
+  - Data hiding. 멤버 변수들을 protected 등으로 관리. Python의 경우 _와 _ _로 protected와 private을 만들 수 있음.
+  - Data와 method를 같이. 클래스 설계를 해야한다.
+  - Has 관계와 inherit 관계를 명확하게 설명하자.
+  - Dynamic binding의 유용성
+
+## Day 82
+- https://leetcode.com/problems/diameter-of-binary-tree
+- https://github.com/jereneal20/TIL/blob/master/ps/diameter-of-binary-tree.py
+  - 잠깐 생각했는데, 재귀라는 점을 잘 생각하고 뭘 반환해야할지 잘 생각하면 된다. 
+
+## Day 85
+OOP 디자인
+- 명세 구체화 -> 어떤것들이 필요한지?? 너무 많은걸 담지 않도록 심플하게 시작하자.
+  -> 구성(변수)적인 요소, 기능(함수)적인 요소 들을 정리
+- UI가 필요한 것이라면 그려서 그것에 대해 컨센선스를 맞추자. 꼭 UI적인게 아니라도 그림으로 그려서 일자척으로 이게 어떤건지 알도록
+- 면접관이 원하는게 디자인인지, 클래스/인터페이스 설계인지를 명확하게 물어보도록 하자( 어디에 중점을 두고 있는건가요?)
+- 클래스 설계시 주의점들
+ -> 해당 클래스에 필요한 변수들
+ -> 변수들을 쓸 땐 이것들을 어떻게 set/사용할지 함수들도 같이 써야 함
+ -> 함수들을 쓸 땐 input arguments들은 어떤 것들이 될것인지 잘 생각해보고.
+
+- 상속 관계 설계시
+ -> abstract class 설계시 이게 왜 필요한지 잘 생각해보고.
+  -> 일반적으로 dynamic binding이 필요하기 떄문. 어떤 공통된 함수를 상속된 클래스마다 다르게 불러야 하는 것이므로 그 함수가 뭔지 잘 살펴보자
+  -> loadObject() 함수라던지.
+ -> 상속관계가 좋은지, 그냥 type을 has-A로 가지고 있는 설계가 좋은지 장단점에 대해 이야기 한 후 진행.
+
+## Day 86
+- https://leetcode.com/problems/complete-binary-tree-inserter
+  - 코드 짜면서 로직에 수식이 들어갈 땐 맞는지 한번 더 검증하면서 짜자. 시간 많다.
+
+## Day 87
+- https://leetcode.com/problems/symmetric-tree 
+  - 쉬운 문제일수록 차근차근 풀어서 실수를 방지하자. 테스트 케이스는 꼭 꼼꼼하게 돌려보자.
+
+## Day 91
+- https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
+- https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py
+  - 그리디. 오스카 덕분에 쉽게 풀었는데.. 헷갈릴 수 있으니 다음에 다시 보자
+
+## Day 92
+- https://leetcode.com/problems/validate-binary-search-tree
+  - Top-down approach를 잘 생각해서 풀 수 있어야 한다.
+
+## Day 93
+- https://leetcode.com/problems/binary-tree-inorder-traversal
+- https://leetcode.com/problems/range-sum-of-bst
+- sys.maxsize 를 이용하자
