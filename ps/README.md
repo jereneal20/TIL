@@ -71,3 +71,4 @@
 |[16](https://leetcode.com/problems/3sum-closest) | 3sum-closest | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum-closest.cpp) |  |
 |[15](https://leetcode.com/problems/3sum) | 3sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum.cpp) |  |
 |[277](https://leetcode.com/problems/find-the-celebrity) | find-the-celebrity | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-the-celebrity.cpp) |  |
+|[269](https://leetcode.com/problems/alien-dictionary) | alien-dictionary | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/alien-dictionary.cpp) |  |

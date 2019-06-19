@@ -469,3 +469,7 @@ OOP 디자인
 - https://leetcode.com/problems/binary-tree-inorder-traversal
 - https://leetcode.com/problems/range-sum-of-bst
 - sys.maxsize 를 이용하자
+
+## Day 94
+- https://leetcode.com/problems/alien-dictionary
+  - topological sort. DFS의 한 형태였다니...
