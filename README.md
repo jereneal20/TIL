@@ -471,6 +471,10 @@ OOP 디자인
   - 나를 포함해서 생각하느냐, 아니냐로 코드를 약간 더 간결하게 표현할수도 있다.
 - sys.maxsize 를 이용하자
 
+## Day 94
+- https://leetcode.com/problems/alien-dictionary
+  - topological sort. DFS의 한 형태였다니...
+
 ## Day 98
 - https://leetcode.com/problems/trapping-rain-water
   - 영기의 도움으로 풂.. 천천히 생각해서 물을 그때그때 채울 수 있는만큼 채워가면 된다.
