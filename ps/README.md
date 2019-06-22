@@ -71,3 +71,5 @@
 |[16](https://leetcode.com/problems/3sum-closest) | 3sum-closest | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum-closest.cpp) |  |
 |[15](https://leetcode.com/problems/3sum) | 3sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum.cpp) |  |
 |[277](https://leetcode.com/problems/find-the-celebrity) | find-the-celebrity | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-the-celebrity.cpp) |  |
+|[206](https://leetcode.com/problems/reverse-linked-list) | reverse-linked-list | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/reverse-linked-list.py) | iterative/recursive solution |
+|[42](https://leetcode.com/problems/trapping-rain-water) | trapping-rain-water | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) |  |

@@ -19,3 +19,16 @@ class Solution:
             # do right side
             sum += self.rangeSumBST(root.right, L, R)
         return sum
+
+
+def recursive_traverse(node, L, R):
+    if not node:
+        return 0
+
+    if node.val < L:
+        return recursive_traverse(node.right, L, R)
+    if node.val > R:
+        return recursive_traverse(node.left, L, R)
+	
+    return node.val + recursive_traverse(node.left, L, R) + recursive_traverse(node.right, L, R)
+
