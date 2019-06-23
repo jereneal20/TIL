@@ -74,3 +74,6 @@
 |[269](https://leetcode.com/problems/alien-dictionary) | alien-dictionary | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/alien-dictionary.cpp) |  |
 |[206](https://leetcode.com/problems/reverse-linked-list) | reverse-linked-list | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/reverse-linked-list.py) | iterative/recursive solution |
 |[42](https://leetcode.com/problems/trapping-rain-water) | trapping-rain-water | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) |  |
+|[198](https://leetcode.com/problems/house-robber) | house-robber | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/house-robber.py) | iterative/recursive solution | same as stock buy and sell |
+|[160](https://leetcode.com/problems/intersection-of-two-linked-lists) | intersection-of-two-linked-lists | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/intersection-of-two-linked-lists.py) | iterative/recursive solution |  |
+|[96](https://leetcode.com/problems/unique-binary-search-trees) | unique-binary-search-trees | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-binary-search-trees.py) | iterative/recursive solution |  |

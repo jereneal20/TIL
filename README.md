@@ -478,3 +478,10 @@ OOP 디자인
 ## Day 98
 - https://leetcode.com/problems/trapping-rain-water
   - 영기의 도움으로 풂.. 천천히 생각해서 물을 그때그때 채울 수 있는만큼 채워가면 된다.
+  -  1주일이 지났는데도 풀이가 명료한 방식이라 코딩할 때 좀 고생이긴하지만 풀 수 있었다는..
+
+## Day 99
+- https://leetcode.com/problems/house-robber
+- https://leetcode.com/problems/intersection-of-two-linked-lists
+- https://leetcode.com/problems/unique-binary-search-trees
+
