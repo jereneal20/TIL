@@ -76,4 +76,6 @@
 |[42](https://leetcode.com/problems/trapping-rain-water) | trapping-rain-water | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) |  |
 |[198](https://leetcode.com/problems/house-robber) | house-robber | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/house-robber.py) | iterative/recursive solution | same as stock buy and sell |
 |[160](https://leetcode.com/problems/intersection-of-two-linked-lists) | intersection-of-two-linked-lists | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/intersection-of-two-linked-lists.py) | iterative/recursive solution |  |
-|[96](https://leetcode.com/problems/unique-binary-search-trees) | unique-binary-search-trees | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-binary-search-trees.py) | iterative/recursive solution |  |
+|[96](https://leetcode.com/problems/unique-binary-search-trees) | unique-binary-search-trees | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-binary-search-trees.py)  |
+|[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | binary-tree-zigzag-level-order-traversal | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-zigzag-level-order-traversal.py) |  |
+|[124](https://leetcode.com/problems/binary-tree-maximum-path-sum) | binary-tree-maximum-path-sum | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-maximum-path-sum.py) |  |
