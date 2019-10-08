@@ -10,6 +10,8 @@ Today I Learn - season 4
 - food order system/ restaurent system을 디자인해보았습니다.
 - social media 시스템에 대한 OOP 글이 있어서 정리해봄.
 
-## Day 6
+## Day 6 ~ 8
 - binary-tree-maximum-path-sum Hard 문제인데.. recursion에서 뭘 가져와야될지 잘 생각해보면 된다. 그때까지의 최선의 값과 path로서의 최선의 값 두가지를 반환하면 된다.
+- binary-tree-zigzag-level-order-traversal
+- 이후에 leetcode는 뭘 풀지, 다른 카테고리는 뭘 써서 TIL 할지 고민 중...
 
