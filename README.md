@@ -15,3 +15,8 @@ Today I Learn - season 4
 - binary-tree-zigzag-level-order-traversal
 - 이후에 leetcode는 뭘 풀지, 다른 카테고리는 뭘 써서 TIL 할지 고민 중...
 
+## Day 9
+- Mac 업데이트시 체크 해야 하는 것들
+	$ xcode-select --install
+	$ open /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg
+
