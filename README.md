@@ -20,3 +20,6 @@ Today I Learn - season 4
 	$ xcode-select --install
 	$ open /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg
 
+## Day 10
+- 열차 자동 예매 파이썬 스크립트 작업 중
+
