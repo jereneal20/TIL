@@ -20,7 +20,8 @@ Today I Learn - season 4
 	$ xcode-select --install
 	$ open /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg
 
-## Day 10 ~ 11
+## Day 10 ~ 12
 - 열차 자동 예매 파이썬 스크립트 작업 중
 - chrome driver 버전 관련 작업 중. 최신 버전에선 동작을 안함..
+- https://github.com/jereneal20/train_reserve
 
