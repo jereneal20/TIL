@@ -25,3 +25,9 @@ Today I Learn - season 4
 - chrome driver 버전 관련 작업 중. 최신 버전에선 동작을 안함..
 - https://github.com/jereneal20/train_reserve
 
+## Day 13 ~ 14
+- 클라이밍으로 일정 풀이라 못함 ㅋ
+
+## Day 15
+- 크롬드라이버로 버튼 위치를 찾아 자동으로 누르도록 함. 이 방식은 매우 느려서 조금 더 빠른 방법 필요
+
