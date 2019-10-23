@@ -28,7 +28,12 @@ Today I Learn - season 4
 ## Day 13
 - 클라이밍으로 일정 풀이라 못함 ㅋ
 
-## Day 14 ~ 15
+## Day 14 ~ 16
 - 크롬드라이버로 버튼 위치를 찾아 자동으로 누르도록 함. 이 방식은 매우 느려서 조금 더 빠른 방법 필요
 - 로그인 후 인증값 받아와 리퀘스트만 보내는 형태로 수정 중
 - 수정 완료. 자주 쓰는 argument 들 자동으로 지정되도록 argument로 바꾸어주어야 함
+
+## Day ??
+- 맥에서 NFS 마운트 방법 알아보는 중. 왜 계속 permission denied가 뜨는거지...
+  - https://mapr.com/docs/51/DevelopmentGuide/t-mounting-nfs-on-a-mac-client.html
+
