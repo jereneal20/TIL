@@ -33,3 +33,6 @@
  - Air shipment 통관
  - Compass 카드, 환승 할인. 2시간 이내만 가능.
  - Registered mail은 10달러는 든다. 한국 등기는 정말 싼거였어...
+
+## 출근
+ - 첫출근!
