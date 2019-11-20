@@ -37,5 +37,8 @@ Today I Learn - season 4
 - 맥에서 NFS 마운트 방법 알아보는 중. 왜 계속 permission denied가 뜨는거지...
   - https://mapr.com/docs/51/DevelopmentGuide/t-mounting-nfs-on-a-mac-client.html
 
-## Day ??
+## Day 49
 - 간단한 웹 크롤러 하나 작성 중. 이미지 저장 용
+
+## Day 50
+- Half day. 게을렀지만 그래도 66% 정돈 달성한 것 같다.. 남은 반은 좀 더 알찬 커밋으로 해보자.
