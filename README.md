@@ -51,3 +51,6 @@ for i in `cat filename`; do echo $i; done;
 
 ## Day 55?
 - 망가진 홈페이지 고치는 중.. 구글 클라우드 엔진 무료 티어인데...
+
+## Day 56
+- AWS 실습
