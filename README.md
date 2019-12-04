@@ -54,3 +54,6 @@ for i in `cat filename`; do echo $i; done;
 
 ## Day 56
 - AWS 실습
+
+## Day 59?
+- Angular 공부 중.. ts란 무엇인가....
