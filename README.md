@@ -57,3 +57,6 @@ for i in `cat filename`; do echo $i; done;
 
 ## Day 59?
 - Angular 공부 중.. ts란 무엇인가....
+
+## Day ??
+- 후.. 1일1커밋 망한듯.. 50%를 목표로 달려갑니다..
