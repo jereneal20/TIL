@@ -21,5 +21,23 @@ class Solution:
             return True
     
         return recurse_find_sym(root.left, root.right)
-    
 
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution2:
+    def isSymmetric(self, root: Optional[TreeNode]) -> bool:
+        return self.func(root.left, root.right)
+
+    def func(self, left, right):
+        if (left and not right) or (right and not left):
+            return False
+        if not left and not right:
+            return True
+        if left.val != right.val:
+            return False
+        return self.func(left.left, right.right) and self.func(left.right, right.left)
