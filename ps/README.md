@@ -30,10 +30,10 @@
 |[88](https://leetcode.com/problems/merge-sorted-array) | merge-sorted-array | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/merge-sorted-array.cpp) | | v |
 |[601](https://leetcode.com/problems/can-place-flowers) | can-place-flowers | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/can-place-flowers.cpp) |
 |[1009](https://leetcode.com/problems/best-sightseeing-pair) | best-sightseeing-pair | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-sightseeing-pair.cpp) |
-|[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | best-time-to-buy-and-sell-stock | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock.cpp) |
+|[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | best-time-to-buy-and-sell-stock | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock.cpp) | | v |
 |[122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | best-time-to-buy-and-sell-stock-ii | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-ii.cpp) |
 |[309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | best-time-to-buy-and-sell-stock-with-cooldown | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-with-cooldown.cpp) |
-|[263](https://leetcode.com/problems/ugly-number) | ugly-number | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/ugly-number.cpp) |
+|[263](https://leetcode.com/problems/ugly-number) | ugly-number | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/ugly-number.cpp) | | v |
 |[710](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | best-time-to-buy-and-sell-stock-with-transaction-fee | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) |
 |[917](https://leetcode.com/problems/sort-array-by-parity-ii) | sort-array-by-parity-ii | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sort-array-by-parity-ii.cpp) |
 |[666](https://leetcode.com/problems/maximum-swap) | maximum-swap | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/maximum-swap.cpp) | retry |
@@ -41,7 +41,7 @@
 |[461](https://leetcode.com/problems/hamming-distance) | hamming-distance | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/hamming-distance.cpp) | retry |
 |[477](https://leetcode.com/problems/total-hamming-distance) | total-hamming-distance | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/total-hamming-distance.cpp) | retry(not solved yet, solution referred) |
 |[321](https://leetcode.com/problems/create-maximum-number) | create-maximum-number | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/create-maximum-number.cpp) | solved in slow solution |
-|[402](https://leetcode.com/problems/remove-k-digits) | remove-k-digits | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/remove-k-digits.cpp) | explain it orally later again |
+|[402](https://leetcode.com/problems/remove-k-digits) | remove-k-digits | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/remove-k-digits.py) | explain it orally later again 2 | v |
 |[735](https://leetcode.com/problems/daily-temperatures) | daily-temperatures | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/daily-temperatures.cpp) |  |
 |[279](https://leetcode.com/problems/perfect-squares) | perfect-squares | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/perfect-squares.cpp) |  |
 |[969](https://leetcode.com/problems/k-closest-points-to-origin) | k-closest-points-to-origin | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/k-closest-points-to-origin.cpp) |  |
@@ -65,8 +65,8 @@
 |[915](https://leetcode.com/problems/complete-binary-tree-inserter) | complete-binary-tree-inserter | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/complete-binary-tree-inserter.py) |  |
 |[1081](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | smallest-subsequence-of-distinct-characters | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) | try it again |
 |[316](https://leetcode.com/problems/remove-duplicate-letters) | remove-duplicate-letters | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) | same as 1081 |
-|[84](https://leetcode.com/problems/validate-binary-search-tree) | validate-binary-search-tree | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/validate-binary-search-tree.py) |  |
-|[94](https://leetcode.com/problems/binary-tree-inorder-traversal) | binary-tree-inorder-traversal | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-inorder-traversal.py) |  |
+|[84](https://leetcode.com/problems/validate-binary-search-tree) | validate-binary-search-tree | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/validate-binary-search-tree.py) |  | v |
+|[94](https://leetcode.com/problems/binary-tree-inorder-traversal) | binary-tree-inorder-traversal | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-inorder-traversal.py) |  | v |
 |[938](https://leetcode.com/problems/range-sum-of-bst) | range-sum-of-bst | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/range-sum-of-bst.py) |  |
 |[16](https://leetcode.com/problems/3sum-closest) | 3sum-closest | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum-closest.cpp) |  |
 |[15](https://leetcode.com/problems/3sum) | 3sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum.cpp) |  |
@@ -80,5 +80,9 @@
 |[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | binary-tree-zigzag-level-order-traversal | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-zigzag-level-order-traversal.py) |  |
 |[124](https://leetcode.com/problems/binary-tree-maximum-path-sum) | binary-tree-maximum-path-sum | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-maximum-path-sum.py) |  |
 |[735](https://leetcode.com/problems/asteroid-collision) | asteroid-collision | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/asteroid-collision.py) |  | v |
-|[477](https://leetcode.com/problems/total-hamming-distance/submissions/) | total-hamming-distance | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/total-hamming-distance.py) |  | v |
+|[477](https://leetcode.com/problems/total-hamming-distance) | total-hamming-distance | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/total-hamming-distance.py) |  | v |
+|[1640](https://leetcode.com/problems/check-array-formation-through-concatenation) | check-array-formation-through-concatenation | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/check-array-formation-through-concatenation.py) |  | v |
+|[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | kth-smallest-element-in-a-bst | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/kth-smallest-element-in-a-bst.py) |  | v |
+|[1775](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations) | equal-sum-arrays-with-minimum-number-of-operations | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/equal-sum-arrays-with-minimum-number-of-operations.py) |  | v |
+|[738](https://leetcode.com/problems/monotone-increasing-digits) | monotone-increasing-digits | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/monotone-increasing-digits.py) |  | v |
 
