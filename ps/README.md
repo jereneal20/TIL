@@ -78,11 +78,17 @@
 |[160](https://leetcode.com/problems/intersection-of-two-linked-lists) | intersection-of-two-linked-lists | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/intersection-of-two-linked-lists.py) | iterative/recursive solution |  |
 |[96](https://leetcode.com/problems/unique-binary-search-trees) | unique-binary-search-trees | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-binary-search-trees.py)  |
 |[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | binary-tree-zigzag-level-order-traversal | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-zigzag-level-order-traversal.py) |  |
-|[124](https://leetcode.com/problems/binary-tree-maximum-path-sum) | binary-tree-maximum-path-sum | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-maximum-path-sum.py) |  |
+|[124](https://leetcode.com/problems/binary-tree-maximum-path-sum) | binary-tree-maximum-path-sum | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-maximum-path-sum.py) | end of season 1 |
 |[735](https://leetcode.com/problems/asteroid-collision) | asteroid-collision | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/asteroid-collision.py) |  | v |
 |[477](https://leetcode.com/problems/total-hamming-distance) | total-hamming-distance | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/total-hamming-distance.py) |  | v |
 |[1640](https://leetcode.com/problems/check-array-formation-through-concatenation) | check-array-formation-through-concatenation | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/check-array-formation-through-concatenation.py) |  | v |
 |[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | kth-smallest-element-in-a-bst | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/kth-smallest-element-in-a-bst.py) |  | v |
 |[1775](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations) | equal-sum-arrays-with-minimum-number-of-operations | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/equal-sum-arrays-with-minimum-number-of-operations.py) |  | v |
 |[738](https://leetcode.com/problems/monotone-increasing-digits) | monotone-increasing-digits | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/monotone-increasing-digits.py) |  | v |
-
+|[1323](https://leetcode.com/problems/maximum-69-number) | maximum-69-number | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/maximum-69-number.py) |  | v |
+|[1342](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | number-of-steps-to-reduce-a-number-to-zero | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/number-of-steps-to-reduce-a-number-to-zero.py) |  | v |
+|[200](https://leetcode.com/problems/number-of-islands) | number-of-islands | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/number-of-islands.py) |  | v |
+|[130](https://leetcode.com/problems/surrounded-regions) | surrounded-regions | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/surrounded-regions.py) |  | v |
+|[417](https://leetcode.com/problems/pacific-atlantic-water-flow) | pacific-atlantic-water-flow | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/pacific-atlantic-water-flow.py) |  | v |
+|[1992](https://leetcode.com/problems/find-all-groups-of-farmland) | find-all-groups-of-farmland | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-all-groups-of-farmland.py) |  | v |
+|[162](https://leetcode.com/problems/find-peak-element) | find-peak-element | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-peak-element.py) |  | v |
