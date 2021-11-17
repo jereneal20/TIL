@@ -92,3 +92,7 @@
 |[417](https://leetcode.com/problems/pacific-atlantic-water-flow) | pacific-atlantic-water-flow | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/pacific-atlantic-water-flow.py) |  | v |
 |[1992](https://leetcode.com/problems/find-all-groups-of-farmland) | find-all-groups-of-farmland | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-all-groups-of-farmland.py) |  | v |
 |[162](https://leetcode.com/problems/find-peak-element) | find-peak-element | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-peak-element.py) |  | v |
+|[1901](https://leetcode.com/problems/find-a-peak-element-ii) | find-a-peak-element-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-a-peak-element-ii.py) | Nice problem | v |
+|[21](https://leetcode.com/problems/merge-two-sorted-lists) | merge-two-sorted-lists | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/merge-two-sorted-lists.py) | | v |
+|[23](https://leetcode.com/problems/merge-k-sorted-lists) | merge-k-sorted-lists | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/merge-k-sorted-lists.py) | | v |
+|[2054](https://leetcode.com/problems/two-best-non-overlapping-events) | two-best-non-overlapping-events | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/two-best-non-overlapping-events.py) | | v |
