@@ -96,3 +96,5 @@
 |[21](https://leetcode.com/problems/merge-two-sorted-lists) | merge-two-sorted-lists | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/merge-two-sorted-lists.py) | | v |
 |[23](https://leetcode.com/problems/merge-k-sorted-lists) | merge-k-sorted-lists | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/merge-k-sorted-lists.py) | | v |
 |[2054](https://leetcode.com/problems/two-best-non-overlapping-events) | two-best-non-overlapping-events | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/two-best-non-overlapping-events.py) | | v |
+|[641](https://leetcode.com/problems/design-circular-deque) | design-circular-deque | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/design-circular-deque.py) | | v |
+|[622](https://leetcode.com/problems/design-circular-queue) | design-circular-queue | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/design-circular-queue.py) | | v |
