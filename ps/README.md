@@ -74,7 +74,7 @@
 |[269](https://leetcode.com/problems/alien-dictionary) | alien-dictionary | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/alien-dictionary.cpp) |  |
 |[206](https://leetcode.com/problems/reverse-linked-list) | reverse-linked-list | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/reverse-linked-list.py) | iterative/recursive solution |
 |[42](https://leetcode.com/problems/trapping-rain-water) | trapping-rain-water | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) |  |
-|[198](https://leetcode.com/problems/house-robber) | house-robber | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/house-robber.py) | iterative/recursive solution, same as stock buy and sell |  |
+|[198](https://leetcode.com/problems/house-robber) | house-robber | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/house-robber.py) | iterative/recursive solution, same as stock buy and sell |  | v |
 |[160](https://leetcode.com/problems/intersection-of-two-linked-lists) | intersection-of-two-linked-lists | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/intersection-of-two-linked-lists.py) | iterative/recursive solution |  |
 |[96](https://leetcode.com/problems/unique-binary-search-trees) | unique-binary-search-trees | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-binary-search-trees.py)  |
 |[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | binary-tree-zigzag-level-order-traversal | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-zigzag-level-order-traversal.py) |  |
@@ -98,3 +98,9 @@
 |[2054](https://leetcode.com/problems/two-best-non-overlapping-events) | two-best-non-overlapping-events | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/two-best-non-overlapping-events.py) | | v |
 |[641](https://leetcode.com/problems/design-circular-deque) | design-circular-deque | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/design-circular-deque.py) | | v |
 |[622](https://leetcode.com/problems/design-circular-queue) | design-circular-queue | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/design-circular-queue.py) | | v |
+|[62](https://leetcode.com/problems/unique-paths) | unique-paths | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-paths.py) | | v |
+|[63](https://leetcode.com/problems/unique-paths-ii) | unique-paths-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-paths-ii.py) | | v |   
+|[980](https://leetcode.com/problems/unique-paths-iii) | unique-paths-iii | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-paths-iii.py) | | v |
+|[1937](https://leetcode.com/problems/longest-well-performing-interval) | longest-well-performing-interval | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/longest-well-performing-interval.py) | nice problem | v |
+|[71](https://leetcode.com/problems/simplify-path) | simplify-path | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/simplify-path.py) | check corner case | v |
+|[846](https://leetcode.com/problems/hand-of-straights) | hand-of-straights | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/hand-of-straights.py) | Try to use dict&heap | v |

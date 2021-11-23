@@ -12,3 +12,13 @@ class Solution:
             prev_norob = norob
             prev_rob = rob
         return max(rob, norob)
+
+class Solution2:
+    def rob(self, nums: List[int]) -> int:
+        if len(nums) <= 2:
+            return max(nums)
+        maxs = [0] * len(nums)
+        for i in range(len(nums)):
+            maxs[i] = max(maxs[i-1], maxs[i-2]+nums[i])
+
+        return maxs[-1]
