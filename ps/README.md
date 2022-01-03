@@ -104,3 +104,11 @@
 |[1937](https://leetcode.com/problems/longest-well-performing-interval) | longest-well-performing-interval | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/longest-well-performing-interval.py) | nice problem | v |
 |[71](https://leetcode.com/problems/simplify-path) | simplify-path | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/simplify-path.py) | check corner case | v |
 |[846](https://leetcode.com/problems/hand-of-straights) | hand-of-straights | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/hand-of-straights.py) | Try to use dict&heap | v |
+|[213](https://leetcode.com/problems/house-robber-ii) | house-robber-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/house-robber-ii.py) |  | v |
+|[337](https://leetcode.com/problems/house-robber-iii) | house-robber-iii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/house-robber-iii.py) |  | v |
+|[1400](https://leetcode.com/problems/construct-k-palindrome-strings) | construct-k-palindrome-strings | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/construct-k-palindrome-strings.py) |  | v |
+|[1015](https://leetcode.com/problems/smallest-integer-divisible-by-k) | smallest-integer-divisible-by-k | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-integer-divisible-by-k.py) |  | v |
+|[973](https://leetcode.com/problems/k-closest-points-to-origin) | k-closest-points-to-origin | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/k-closest-points-to-origin.py) | try it again  | v |
+|[1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) | maximum-difference-between-node-and-ancestor | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/maximum-difference-between-node-and-ancestor.py) |   | v |
+|[997](https://leetcode.com/problems/find-the-town-judge) | find-the-town-judge | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-the-town-judge.py) |   | v |
+|[1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | pairs-of-songs-with-total-durations-divisible-by-60 | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/pairs-of-songs-with-total-durations-divisible-by-60.py) |   | v |
