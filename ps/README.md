@@ -29,14 +29,14 @@
 |[50](https://leetcode.com/problems/powx-n) | powx-n | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/powx-n.cpp) |
 |[88](https://leetcode.com/problems/merge-sorted-array) | merge-sorted-array | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/merge-sorted-array.cpp) | | v |
 |[601](https://leetcode.com/problems/can-place-flowers) | can-place-flowers | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/can-place-flowers.cpp) |
-|[1009](https://leetcode.com/problems/best-sightseeing-pair) | best-sightseeing-pair | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-sightseeing-pair.cpp) |
+|[1014](https://leetcode.com/problems/best-sightseeing-pair) | best-sightseeing-pair | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-sightseeing-pair.cpp) | | v |
 |[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | best-time-to-buy-and-sell-stock | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock.cpp) | | v |
 |[122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | best-time-to-buy-and-sell-stock-ii | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-ii.cpp) |
 |[309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | best-time-to-buy-and-sell-stock-with-cooldown | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-with-cooldown.cpp) |
 |[263](https://leetcode.com/problems/ugly-number) | ugly-number | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/ugly-number.cpp) | | v |
 |[710](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | best-time-to-buy-and-sell-stock-with-transaction-fee | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-time-to-buy-and-sell-stock-with-transaction-fee.cpp) |
 |[917](https://leetcode.com/problems/sort-array-by-parity-ii) | sort-array-by-parity-ii | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sort-array-by-parity-ii.cpp) |
-|[666](https://leetcode.com/problems/maximum-swap) | maximum-swap | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/maximum-swap.cpp) | retry |
+|[670](https://leetcode.com/problems/maximum-swap) | maximum-swap | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/maximum-swap.py) | | v (2022.1.3) |
 |[1015](https://leetcode.com/problems/next-greater-node-in-linked-list) | next-greater-node-in-linked-list | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/next-greater-node-in-linked-list.cpp) | retry |
 |[461](https://leetcode.com/problems/hamming-distance) | hamming-distance | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/hamming-distance.cpp) | retry |
 |[477](https://leetcode.com/problems/total-hamming-distance) | total-hamming-distance | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/total-hamming-distance.cpp) | retry(not solved yet, solution referred) |
@@ -112,3 +112,12 @@
 |[1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) | maximum-difference-between-node-and-ancestor | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/maximum-difference-between-node-and-ancestor.py) |   | v |
 |[997](https://leetcode.com/problems/find-the-town-judge) | find-the-town-judge | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-the-town-judge.py) |   | v |
 |[1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60) | pairs-of-songs-with-total-durations-divisible-by-60 | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/pairs-of-songs-with-total-durations-divisible-by-60.py) |   | v |
+|[35](https://leetcode.com/problems/search-insert-position) | search-insert-position | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/search-insert-position.py) |   | v |
+|[283](https://leetcode.com/problems/move-zeroes) | move-zeroes | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/move-zeroes.py) |   | v |
+|[1009](https://leetcode.com/problems/complement-of-base-10-integer) | complement-of-base-10-integer | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/complement-of-base-10-integer.py) |   | v |
+|[994](https://leetcode.com/problems/rotting-oranges) | rotting-oranges | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/rotting-oranges.py) |   | v |
+|[116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | populating-next-right-pointers-in-each-node | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/populating-next-right-pointers-in-each-node.py) |   | v |
+|[131](https://leetcode.com/problems/palindrome-partitioning) | palindrome-partitioning | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/palindrome-partitioning.py) |   | v |
+|[1094](https://leetcode.com/problems/car-pooling) | car-pooling | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/car-pooling.py) |   | v |
+|[382](https://leetcode.com/problems/linked-list-random-node) | linked-list-random-node | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/linked-list-random-node.py) | solve the theorem  | v |
+|[1463](https://leetcode.com/problems/cherry-pickup-ii) | cherry-pickup-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/cherry-pickup-ii.py) |   | v |
