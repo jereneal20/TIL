@@ -58,8 +58,8 @@
 |[943](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column) | most-stones-removed-with-same-row-or-column | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/most-stones-removed-with-same-row-or-column.cpp) |  |
 |[222](https://leetcode.com/problems/count-complete-tree-nodes) | count-complete-tree-nodes | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/count-complete-tree-nodes.cpp) |  |
 |[133](https://leetcode.com/problems/clone-graph) | clone-graph | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/clone-graph.cpp) |  |
-|[935](https://leetcode.com/problems/minimum-area-rectangle) | minimum-area-rectangle | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-area-rectangle.cpp) |  |
-|[8](https://leetcode.com/problems/string-to-integer-atoi) | string-to-integer-atoi | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/string-to-integer-atoi.cpp) |  |
+|[935](https://leetcode.com/problems/minimum-area-rectangle) | minimum-area-rectangle | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-area-rectangle.py) | analyze complexity  | v |
+|[8](https://leetcode.com/problems/string-to-integer-atoi) | string-to-integer-atoi | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/string-to-integer-atoi.py) |  | v |
 |[8540](https://leetcode.com/problems/diameter-of-binary-tree) | diameter-of-binary-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/diameter-of-binary-tree.cpp) |  |
 |[101](https://leetcode.com/problems/symmetric-tree) | symmetric-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/symmetric-tree.py) |  | v |
 |[915](https://leetcode.com/problems/complete-binary-tree-inserter) | complete-binary-tree-inserter | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/complete-binary-tree-inserter.py) |  |
@@ -73,7 +73,7 @@
 |[277](https://leetcode.com/problems/find-the-celebrity) | find-the-celebrity | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-the-celebrity.cpp) |  |
 |[269](https://leetcode.com/problems/alien-dictionary) | alien-dictionary | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/alien-dictionary.cpp) |  |
 |[206](https://leetcode.com/problems/reverse-linked-list) | reverse-linked-list | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/reverse-linked-list.py) | iterative/recursive solution |
-|[42](https://leetcode.com/problems/trapping-rain-water) | trapping-rain-water | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) |  |
+|[42](https://leetcode.com/problems/trapping-rain-water) | trapping-rain-water | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/trapping-rain-water.py) |  | v |
 |[198](https://leetcode.com/problems/house-robber) | house-robber | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/house-robber.py) | iterative/recursive solution, same as stock buy and sell |  | v |
 |[160](https://leetcode.com/problems/intersection-of-two-linked-lists) | intersection-of-two-linked-lists | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/intersection-of-two-linked-lists.py) | iterative/recursive solution |  |
 |[96](https://leetcode.com/problems/unique-binary-search-trees) | unique-binary-search-trees | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-binary-search-trees.py)  |
@@ -101,7 +101,7 @@
 |[62](https://leetcode.com/problems/unique-paths) | unique-paths | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-paths.py) | | v |
 |[63](https://leetcode.com/problems/unique-paths-ii) | unique-paths-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-paths-ii.py) | | v |   
 |[980](https://leetcode.com/problems/unique-paths-iii) | unique-paths-iii | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/unique-paths-iii.py) | | v |
-|[1937](https://leetcode.com/problems/longest-well-performing-interval) | longest-well-performing-interval | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/longest-well-performing-interval.py) | nice problem | v |
+|[1124](https://leetcode.com/problems/longest-well-performing-interval) | longest-well-performing-interval | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/longest-well-performing-interval.py) | nice problem | v |
 |[71](https://leetcode.com/problems/simplify-path) | simplify-path | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/simplify-path.py) | check corner case | v |
 |[846](https://leetcode.com/problems/hand-of-straights) | hand-of-straights | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/hand-of-straights.py) | Try to use dict&heap | v |
 |[213](https://leetcode.com/problems/house-robber-ii) | house-robber-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/house-robber-ii.py) |  | v |
@@ -121,3 +121,18 @@
 |[1094](https://leetcode.com/problems/car-pooling) | car-pooling | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/car-pooling.py) |   | v |
 |[382](https://leetcode.com/problems/linked-list-random-node) | linked-list-random-node | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/linked-list-random-node.py) | solve the theorem  | v |
 |[1463](https://leetcode.com/problems/cherry-pickup-ii) | cherry-pickup-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/cherry-pickup-ii.py) |   | v |
+|[1041](https://leetcode.com/problems/robot-bounded-in-circle) | robot-bounded-in-circle | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/robot-bounded-in-circle.py) |   | v |
+|[67](https://leetcode.com/problems/add-binary) | add-binary | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/add-binary.py) |   | v |
+|[371](https://leetcode.com/problems/sum-of-two-integers) | sum-of-two-integers | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sum-of-two-integers.py) |   | v |
+|[1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | sum-of-root-to-leaf-binary-numbers | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sum-of-root-to-leaf-binary-numbers.py) |   | v |
+|[518](https://leetcode.com/problems/coin-change-2) | coin-change-2 | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/coin-change-2.py) |   | v |
+|[701](https://leetcode.com/problems/insert-into-a-binary-search-tree) | insert-into-a-binary-search-tree | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/insert-into-a-binary-search-tree.py) |   | v |
+|[435](https://leetcode.com/problems/non-overlapping-intervals) | non-overlapping-intervals | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/non-overlapping-intervals.py) |   | v |
+|[452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | minimum-number-of-arrows-to-burst-balloons | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-number-of-arrows-to-burst-balloons.py) |   | v |
+|[380](https://leetcode.com/problems/insert-delete-getrandom-o1) | insert-delete-getrandom-o1 | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/insert-delete-getrandom-o1.py) |   | v |
+|[34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | find-first-and-last-position-of-element-in-sorted-array | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-first-and-last-position-of-element-in-sorted-array.py) |   | v |
+|[1345](https://leetcode.com/problems/jump-game-iv) | jump-game-iv | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/jump-game-iv.py) |   | v |
+|[849](https://leetcode.com/problems/maximize-distance-to-closest-person) | maximize-distance-to-closest-person | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/maximize-distance-to-closest-person.py) |   | v |
+|[290](https://leetcode.com/problems/word-pattern) | word-pattern | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/word-pattern.py) |   | v |
+|[1871](https://leetcode.com/problems/jump-game-vii) | jump-game-vii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/jump-game-vii.py) |   | v |
+|[755](https://leetcode.com/problems/pour-water) | pour-water | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/pour-water.py) |   | v |
