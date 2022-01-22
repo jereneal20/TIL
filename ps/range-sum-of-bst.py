@@ -6,6 +6,21 @@
 #         self.right = None
 
 class Solution:
+    def rangeSumBST(self, root: Optional[TreeNode], low: int, high: int) -> int:
+        self.sum = 0
+        self.recurse(root, low, high)
+        return self.sum
+
+    def recurse(self, node, low, high):
+        if not node:
+            return
+
+        self.recurse(node.left, low, high)
+        if low <= node.val <= high:
+            self.sum += node.val
+        self.recurse(node.right, low, high)
+
+class Solution2:
     def rangeSumBST(self, root: TreeNode, L: int, R: int) -> int:
         if not root:
             return 0

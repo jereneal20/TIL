@@ -10,7 +10,7 @@
 |[396](https://leetcode.com/problems/rotate-function) | rotate-function | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/rotate-function.cpp) |
 |[14](https://leetcode.com/problems/longest-common-prefix) | longest-common-prefix | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/longest-common-prefix.py) | `shortest = min(strs,key=len)` | v |
 |[3](https://leetcode.com/problems/longest-substring-without-repeating-characters) | longest-substring-without-repeating-characters | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/longest-substring-without-repeating-characters.cpp) |
-|[1](https://leetcode.com/problems/two-sum) | two-sum | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/two-sum.cpp) | | v |
+|[1](https://leetcode.com/problems/two-sum) | two-sum | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/two-sum.py) | | v |
 |[111](https://leetcode.com/problems/minimum-depth-of-binary-tree) | minimum-depth-of-binary-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-depth-of-binary-tree.cpp) | | v |
 |[993](https://leetcode.com/problems/cousins-in-binary-tree) | cousins-in-binary-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/cousins-in-binary-tree.cpp) | | v |
 |[22](https://leetcode.com/problems/generate-parentheses) | generate-parentheses| medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/generate-parentheses.cpp) |
@@ -50,7 +50,7 @@
 |[917](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | minimum-add-to-make-parentheses-valid | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-add-to-make-parentheses-valid.cpp) |  |
 |[999](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions) | check-if-word-is-valid-after-substitutions | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/check-if-word-is-valid-after-substitutions.cpp) |  |
 |[962](https://leetcode.com/problems/vowel-spellchecker) | vowel-spellchecker | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/vowel-spellchecker.cpp) |  |
-|[15](https://leetcode.com/problems/3sum) | 3sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum.cpp) |  |
+|[15](https://leetcode.com/problems/3sum) | 3sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum.cpp) | Think about why the second way doesn't work well | v |
 |[394](https://leetcode.com/problems/decode-string) | decode-string | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/decode-string.cpp) |  |
 |[11](https://leetcode.com/problems/container-with-most-water) | container-with-most-water | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/container-with-most-water.cpp) | solved. think again. tell the logic again |
 |[75](https://leetcode.com/problems/sort-colors) | sort-colors | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sort-colors.cpp) | solution seen. a bit more clever way exist |
@@ -67,7 +67,7 @@
 |[316](https://leetcode.com/problems/remove-duplicate-letters) | remove-duplicate-letters | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/smallest-subsequence-of-distinct-characters.py) | same as 1081 |
 |[84](https://leetcode.com/problems/validate-binary-search-tree) | validate-binary-search-tree | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/validate-binary-search-tree.py) |  | v |
 |[94](https://leetcode.com/problems/binary-tree-inorder-traversal) | binary-tree-inorder-traversal | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-inorder-traversal.py) |  | v |
-|[938](https://leetcode.com/problems/range-sum-of-bst) | range-sum-of-bst | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/range-sum-of-bst.py) |  |
+|[938](https://leetcode.com/problems/range-sum-of-bst) | range-sum-of-bst | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/range-sum-of-bst.py) |  | v |
 |[16](https://leetcode.com/problems/3sum-closest) | 3sum-closest | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum-closest.cpp) |  |
 |[15](https://leetcode.com/problems/3sum) | 3sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum.cpp) |  |
 |[277](https://leetcode.com/problems/find-the-celebrity) | find-the-celebrity | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-the-celebrity.cpp) |  |
@@ -122,7 +122,7 @@
 |[382](https://leetcode.com/problems/linked-list-random-node) | linked-list-random-node | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/linked-list-random-node.py) | solve the theorem  | v |
 |[1463](https://leetcode.com/problems/cherry-pickup-ii) | cherry-pickup-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/cherry-pickup-ii.py) |   | v |
 |[1041](https://leetcode.com/problems/robot-bounded-in-circle) | robot-bounded-in-circle | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/robot-bounded-in-circle.py) |   | v |
-|[67](https://leetcode.com/problems/add-binary) | add-binary | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/add-binary.py) |   | v |
+|[67](https://leetcode.com/problems/add-binary) | add-binary | easy | [solution](https://github.com/jereneal20/TIL/blob/mrange-sum-of-bstaster/ps/add-binary.py) |   | v |
 |[371](https://leetcode.com/problems/sum-of-two-integers) | sum-of-two-integers | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sum-of-two-integers.py) |   | v |
 |[1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | sum-of-root-to-leaf-binary-numbers | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sum-of-root-to-leaf-binary-numbers.py) |   | v |
 |[518](https://leetcode.com/problems/coin-change-2) | coin-change-2 | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/coin-change-2.py) |   | v |
@@ -136,3 +136,14 @@
 |[290](https://leetcode.com/problems/word-pattern) | word-pattern | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/word-pattern.py) |   | v |
 |[1871](https://leetcode.com/problems/jump-game-vii) | jump-game-vii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/jump-game-vii.py) |   | v |
 |[755](https://leetcode.com/problems/pour-water) | pour-water | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/pour-water.py) |   | v |
+|[142](https://leetcode.com/problems/linked-list-cycle-ii) | linked-list-cycle-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/linked-list-cycle-ii.py) |   | v |
+|[146](https://leetcode.com/problems/lru-cache) | lru-cache | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/lru-cache.py) |   | v |
+|[423](https://leetcode.com/problems/reconstruct-original-digits-from-english) | reconstruct-original-digits-from-english | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/reconstruct-original-digits-from-english.py) |   | v |
+|[1782](https://leetcode.com/problems/buildings-with-an-ocean-view) | buildings-with-an-ocean-view | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/buildings-with-an-ocean-view.py) |   | v |
+|[680](https://leetcode.com/problems/valid-palindrome-ii) | valid-palindrome-ii | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/valid-palindrome-ii.py) |   | v |
+|[1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | minimum-remove-to-make-valid-parentheses | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-remove-to-make-valid-parentheses.py) |   | v |
+|[875](https://leetcode.com/problems/koko-eating-bananas) | koko-eating-bananas | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/koko-eating-bananas.py) |   | v |
+|[314](https://leetcode.com/problems/binary-tree-vertical-order-traversal) | binary-tree-vertical-order-traversal | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-vertical-order-traversal.py) |   | v |
+|[134](https://leetcode.com/problems/gas-station) | gas-station | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/gas-station.py) |   | v |
+|[528](https://leetcode.com/problems/random-pick-with-weight) | random-pick-with-weight | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/random-pick-with-weight.py) |   | v |
+|[1510](https://leetcode.com/problems/stone-game-iv) | stone-game-iv | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/stone-game-iv.py) |   | v |
