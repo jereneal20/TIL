@@ -8,7 +8,7 @@ class Solution:
             i += 1
 
         for i in range(1, n + 1):
-            if dp[i] == 1:
+            if dp[i] != 0:
                 continue
 
             j = 0
