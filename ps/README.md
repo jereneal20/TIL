@@ -164,3 +164,18 @@
 |[84](https://leetcode.com/problems/largest-rectangle-in-histogram) | largest-rectangle-in-histogram | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/largest-rectangle-in-histogram.py) | double check | v |
 |[339](https://leetcode.com/problems/kth-largest-element-in-an-array) | kth-largest-element-in-an-array | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/kth-largest-element-in-an-array.py) | quick selection implement | v |
 |[p42577](https://programmers.co.kr/learn/courses/30/lessons/42577?language=python3) | 전화번호 목록 | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/phone-number-list.py) | | v |
+|[189](https://leetcode.com/problems/rotate-array) | rotate-array | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/rotate-array.py) |  | v |
+|[1672](https://leetcode.com/problems/richest-customer-wealth) | richest-customer-wealth | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/richest-customer-wealth.py) |   | v |
+|[312](https://leetcode.com/problems/burst-balloons) | burst-balloons | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/burst-balloons.py) |   | v |
+|[438](https://leetcode.com/problems/find-all-anagrams-in-a-string) | find-all-anagrams-in-a-string | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-all-anagrams-in-a-string.py) |   | v |
+|[31](https://leetcode.com/problems/next-permutation) | next-permutation | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/next-permutation.py) |   | v |
+|[46](https://leetcode.com/problems/permutations) | permutations | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/permutations.py) |   | v |
+|[454](https://leetcode.com/problems/4sum-ii) | 4sum-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/4sum-ii.py) |   | v |
+|[525](https://leetcode.com/problems/contiguous-array) | contiguous-array | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/contiguous-array.py) |   | v |
+|[325](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k) | maximum-size-subarray-sum-equals-k | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/maximum-size-subarray-sum-equals-k.py) |   | v |
+|[209](https://leetcode.com/problems/minimum-size-subarray-sum) | minimum-size-subarray-sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-size-subarray-sum.py) |   | v |
+|[76](https://leetcode.com/problems/minimum-window-substring) | minimum-window-substring | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-window-substring.py) |   | v |
+|[80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | remove-duplicates-from-sorted-array-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/remove-duplicates-from-sorted-array-ii.py) |   | v |
+|[239](https://leetcode.com/problems/sliding-window-maximum) | sliding-window-maximum | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sliding-window-maximum.py) |   | v |
+|[77](https://leetcode.com/problems/combinations) | combinations | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/combinations.py) |   | v |
+|[47](https://leetcode.com/problems/permutations-ii) | permutations-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/permutations-ii.py) |   | v |
