@@ -26,7 +26,7 @@
 |[828](https://leetcode.com/problems/game-of-life) | game-of-life | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/game-of-life.cpp) | | v|
 |[341](https://leetcode.com/problems/flatten-nested-list-iterator) | flatten-nested-list-iterator | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/flatten-nested-list-iterator.cpp) |
 |[173](https://leetcode.com/problems/binary-search-tree-iterator) | binary-search-tree-iterator | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-search-tree-iterator.cpp) |
-|[50](https://leetcode.com/problems/powx-n) | powx-n | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/powx-n.cpp) |
+|[50](https://leetcode.com/problems/powx-n) | powx-n | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/powx-n.py) |
 |[88](https://leetcode.com/problems/merge-sorted-array) | merge-sorted-array | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/merge-sorted-array.cpp) | | v |
 |[601](https://leetcode.com/problems/can-place-flowers) | can-place-flowers | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/can-place-flowers.cpp) |
 |[1014](https://leetcode.com/problems/best-sightseeing-pair) | best-sightseeing-pair | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/best-sightseeing-pair.cpp) | | v |
@@ -179,3 +179,25 @@
 |[239](https://leetcode.com/problems/sliding-window-maximum) | sliding-window-maximum | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sliding-window-maximum.py) |   | v |
 |[77](https://leetcode.com/problems/combinations) | combinations | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/combinations.py) |   | v |
 |[47](https://leetcode.com/problems/permutations-ii) | permutations-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/permutations-ii.py) |   | v |
+|[381](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) | insert-delete-getrandom-o1-duplicates-allowed | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/insert-delete-getrandom-o1-duplicates-allowed.py) |   | v |
+|[339](https://leetcode.com/problems/nested-list-weight-sum) | nested-list-weight-sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/nested-list-weight-sum.py) |   | v |
+|[f23](https://kristinelpetrosyan.medium.com/facebook-interview-question-rotational-cipher-b20337ca5c8) | Rotati0nal Cipher | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/rotati0nal-cipher.py) |   | v |
+|[f22](https://leetcode.com/discuss/interview-question/742523/facebook-prep-question-contiguous-subarrays-on-solution) | Contiguous Subarrays | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/contiguous-subarrays.py) |   | v |
+|[f51](https://www.geeksforgeeks.org/largest-triplet-product-stream/) | Largest Triple Products | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/largest-triple-products.py) |   | v |
+|[628](https://leetcode.com/problems/maximum-product-of-three-numbers) | maximum-product-of-three-numbers | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/maximum-product-of-three-numbers.py) |   | v |
+|[258](https://leetcode.com/problems/add-digits) | add-digits | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/add-digits.py) |   | v |
+|[389](https://leetcode.com/problems/find-the-difference) | find-the-difference | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-the-difference.py) |   | v |
+|[1101](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends) | the-earliest-moment-when-everyone-become-friends | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/the-earliest-moment-when-everyone-become-friends.py) |   | v |
+|[f49](https://gist.github.com/kuntalchandra/417f8ddace0ef8ac934b29fc52a392ab) | Number of Visible Nodes | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/number-of-visible-nodes.py) |   | v |
+|[f30](https://leetcode.com/discuss/interview-question/756125/facebook-recruiting-portal-nodes-in-a-subtree) | Nodes in a Subtree | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/nodes-in-a-subtree.py) |   | v |
+|[567](https://leetcode.com/problems/permutation-in-string) | permutation-in-string | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/permutation-in-string.py) |   | v |
+|[199](https://leetcode.com/problems/binary-tree-right-side-view) | binary-tree-right-side-view | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/binary-tree-right-side-view.py) |   | v |
+|[78](https://leetcode.com/problems/subsets) | subsets | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/subsets.py) |   | v |
+|[78](https://leetcode.com/problems/4sum) | 4sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/4sum.py) |   | v |
+|[f62](https://leetcode.com/discuss/interview-question/688086/fb-online-assessment-question) | Reverse Operations | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/reverse-operations.py) |   | v |
+|[1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays) | make-two-arrays-equal-by-reversing-sub-arrays | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/make-two-arrays-equal-by-reversing-sub-arrays.py) |   | v |
+|[39](https://leetcode.com/problems/combination-sum) | combination-sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/combination-sum.py) |   | v |
+|[f22](https://leetcode.com/discuss/interview-question/1039925/Facebook-Practice-question-or-Queue-Removals) | Queue Removals | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/queue-removals.py) |   | v |
+|[20](https://leetcode.com/problems/valid-parentheses) | valid-parentheses | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/valid-parentheses.py) |   | v |
+|[32](https://leetcode.com/problems/longest-valid-parentheses) | longest-valid-parentheses | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/longest-valid-parentheses.java) |   | v |
+|[1675](https://leetcode.com/problems/minimize-deviation-in-array) | minimize-deviation-in-array | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimize-deviation-in-array.java) |   | v |
