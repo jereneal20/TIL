@@ -57,7 +57,7 @@
 |[16](https://leetcode.com/problems/3sum-closest) | 3sum-closest | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum-closest.cpp) |  |
 |[943](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column) | most-stones-removed-with-same-row-or-column | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/most-stones-removed-with-same-row-or-column.cpp) |  |
 |[222](https://leetcode.com/problems/count-complete-tree-nodes) | count-complete-tree-nodes | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/count-complete-tree-nodes.cpp) |  |
-|[133](https://leetcode.com/problems/clone-graph) | clone-graph | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/clone-graph.cpp) |  |
+|[133](https://leetcode.com/problems/clone-graph) | clone-graph | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/clone-graph.py) |  | v |
 |[935](https://leetcode.com/problems/minimum-area-rectangle) | minimum-area-rectangle | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-area-rectangle.py) | analyze complexity  | v |
 |[8](https://leetcode.com/problems/string-to-integer-atoi) | string-to-integer-atoi | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/string-to-integer-atoi.py) |  | v |
 |[8540](https://leetcode.com/problems/diameter-of-binary-tree) | diameter-of-binary-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/diameter-of-binary-tree.cpp) |  |
@@ -71,7 +71,7 @@
 |[16](https://leetcode.com/problems/3sum-closest) | 3sum-closest | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum-closest.cpp) |  |
 |[15](https://leetcode.com/problems/3sum) | 3sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/3sum.cpp) |  |
 |[277](https://leetcode.com/problems/find-the-celebrity) | find-the-celebrity | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-the-celebrity.cpp) |  |
-|[269](https://leetcode.com/problems/alien-dictionary) | alien-dictionary | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/alien-dictionary.cpp) |  |
+|[269](https://leetcode.com/problems/alien-dictionary) | alien-dictionary | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/alien-dictionary.py) |  |
 |[206](https://leetcode.com/problems/reverse-linked-list) | reverse-linked-list | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/reverse-linked-list.py) | iterative/recursive solution |
 |[42](https://leetcode.com/problems/trapping-rain-water) | trapping-rain-water | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/trapping-rain-water.py) |  | v |
 |[198](https://leetcode.com/problems/house-robber) | house-robber | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/house-robber.py) | iterative/recursive solution, same as stock buy and sell |  | v |
@@ -200,4 +200,23 @@
 |[f22](https://leetcode.com/discuss/interview-question/1039925/Facebook-Practice-question-or-Queue-Removals) | Queue Removals | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/queue-removals.py) |   | v |
 |[20](https://leetcode.com/problems/valid-parentheses) | valid-parentheses | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/valid-parentheses.py) |   | v |
 |[32](https://leetcode.com/problems/longest-valid-parentheses) | longest-valid-parentheses | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/longest-valid-parentheses.java) |   | v |
-|[1675](https://leetcode.com/problems/minimize-deviation-in-array) | minimize-deviation-in-array | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimize-deviation-in-array.java) |   | v |
+|[1675](https://leetcode.com/problems/minimize-deviation-in-array) | minimize-deviation-in-array | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimize-deviation-in-array.py) |   | v |
+|[1288](https://leetcode.com/problems/remove-covered-intervals) | remove-covered-intervals | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/remove-covered-intervals.py) |   | v |
+|[169](https://leetcode.com/problems/majority-element) | majority-element | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/majority-element.py) |   | v |
+|[f22](https://leetcode.com/discuss/interview-question/718692/facebook-training-balanced-split) | balanced-split | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/balanced-split.py) |   | v |
+|[f19](https://leetcode.com/discuss/interview-question/1188322/facebook-recruiting-portal-revenue-milestones) | revenue-milestones | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/revenue-milestones.py) |   | v |
+|[416](https://leetcode.com/problems/partition-equal-subset-sum) | partition-equal-subset-sum | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/partition-equal-subset-sum.py) |   | v |
+|[171](https://leetcode.com/problems/excel-sheet-column-number) | excel-sheet-column-number | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/excel-sheet-column-number.py) |   | v |
+|[f54](https://leetcode.com/discuss/interview-question/1188322/facebook-recruiting-portal-revenue-milestones) | revenue-milestones | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/revenue-milestones.py) |   | v |
+|[295](https://leetcode.com/problems/find-median-from-data-stream) | find-median-from-data-stream | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/find-median-from-data-stream.py) |   | v |
+|[148](https://leetcode.com/problems/sort-list) | sort-list | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/sort-list.py) |  Think about the O(1) space complexity solution  | v |
+|[148](https://leetcode.com/problems/compare-version-numbers) | compare-version-numbers | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/compare-version-numbers.py) |   | v |
+|[662](https://leetcode.com/problems/maximum-width-of-binary-tree) | maximum-width-of-binary-tree | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/maximum-width-of-binary-tree.py) |   | v |
+|[228](https://leetcode.com/problems/summary-ranges) | maximum-width-of-binary-tree | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/summary-ranges.py) |   | v |
+|[532](https://leetcode.com/problems/k-diff-pairs-in-an-array) | k-diff-pairs-in-an-array | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/k-diff-pairs-in-an-array.py) |   | v |
+|[338](https://leetcode.com/problems/counting-bits) | counting-bits | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/counting-bits.py) |   | v |
+|[392](https://leetcode.com/problems/is-subsequence) | is-subsequence | easy | [solution](https://github.com/jereneal20/TIL/blob/master/ps/is-subsequence.py) |   | v |
+|[56](https://leetcode.com/problems/merge-intervals) | merge-intervals | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/merge-intervals.py) |   | v |
+|[24](https://leetcode.com/problems/swap-nodes-in-pairs) | swap-nodes-in-pairs | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/swap-nodes-in-pairs.py) |   | v |
+|[347](https://leetcode.com/problems/top-k-frequent-elements) | top-k-frequent-elements | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/top-k-frequent-elements.py) |   | v |
+|[413](https://leetcode.com/problems/arithmetic-slices) | arithmetic-slices | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/arithmetic-slices.py) |   | v |
