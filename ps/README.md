@@ -220,3 +220,14 @@
 |[24](https://leetcode.com/problems/swap-nodes-in-pairs) | swap-nodes-in-pairs | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/swap-nodes-in-pairs.py) |   | v |
 |[347](https://leetcode.com/problems/top-k-frequent-elements) | top-k-frequent-elements | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/top-k-frequent-elements.py) |   | v |
 |[413](https://leetcode.com/problems/arithmetic-slices) | arithmetic-slices | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/arithmetic-slices.py) |   | v |
+|[847](https://leetcode.com/problems/shortest-path-visiting-all-nodes) | shortest-path-visiting-all-nodes | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/shortest-path-visiting-all-nodes.py) | Solve it by myself | v |
+|[1048](https://leetcode.com/problems/longest-string-chain) | longest-string-chain | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/longest-string-chain.py) |   | v |
+|[740](https://leetcode.com/problems/delete-and-earn) | delete-and-earn | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/delete-and-earn.py) |   | v |
+|[1359](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options) | count-all-valid-pickup-and-delivery-options | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/count-all-valid-pickup-and-delivery-options.py) |   | v |
+|[227](https://leetcode.com/problems/basic-calculator-ii) | basic-calculator-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/basic-calculator-ii.py) |   | v |
+|[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | construct-binary-tree-from-preorder-and-inorder-traversal | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/construct-binary-tree-from-preorder-and-inorder-traversal.py) |   | v |
+|[927](https://leetcode.com/problems/three-equal-parts) | three-equal-parts | hard | [solution](https://github.com/jereneal20/TIL/blob/master/ps/three-equal-parts.py) |   | v |
+|[82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | remove-duplicates-from-sorted-list-ii | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/remove-duplicates-from-sorted-list-ii.py) |   | v |
+|[2](https://leetcode.com/problems/add-two-numbers) | add-two-numbers | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/add-two-numbers.py) |   | v |
+|[61](https://leetcode.com/problems/rotate-list) | rotate-list | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/rotate-list.py) |   | v |
+|[946](https://leetcode.com/problems/validate-stack-sequences) | validate-stack-sequences | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/validate-stack-sequences.py) |   | v |
