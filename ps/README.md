@@ -231,3 +231,4 @@
 |[2](https://leetcode.com/problems/add-two-numbers) | add-two-numbers | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/add-two-numbers.py) |   | v |
 |[61](https://leetcode.com/problems/rotate-list) | rotate-list | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/rotate-list.py) |   | v |
 |[946](https://leetcode.com/problems/validate-stack-sequences) | validate-stack-sequences | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/validate-stack-sequences.py) |   | v |
+|[1007](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row) | minimum-domino-rotations-for-equal-row | medium | [solution](https://github.com/jereneal20/TIL/blob/master/ps/minimum-domino-rotations-for-equal-row.py) |   | v |
